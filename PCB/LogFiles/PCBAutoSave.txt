@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        09:39 PM Friday, August 31, 2018
+     Job Name: C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\PCB\CORPORATE.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        09:39 PM Friday, August 31, 2018
+     Job Name: C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\PCB\CORPORATE.pcb
+

@@ -1,0 +1,32 @@
+#Project name
+XRName 
+
+#Project path
+XRPathName D:\Jobs\3D\U2U\LessonFinal\LessonFinal\PCB\Layout\3D
+
+#MapVersion
+XRMapVesrion 0
+
+#Emn file name
+XREmnName Input.emn
+
+#Emp file name
+XREmpName 
+
+#Assembly file name
+XRAsmName 
+
+#Assembly Creation Time
+MakeModelTime 
+
+#Date of modify
+XRDate 10/04/13 08:52:45
+
+#Status of the project
+XRStatus 0
+
+#Viewing Features of the project
+ASM_Features 1 1 1 1 0 1
+Sim_Features 1 1 1 0 0 1
+
+

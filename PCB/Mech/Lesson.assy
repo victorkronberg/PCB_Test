@@ -1,0 +1,9 @@
+AssemblyFileVersion 1
+Assembly	"Mech\bottom_enclosure.sat"	1.000000
+	Instance	"BottomEnclosure"	{7705E4BF-90DA-450D-AAF1-683D4F4F03F7}	 0.000000, -0.000000, 0.000000, 53.800000, 36.628000, 18.000000	Assembly
+Assembly	"Mech\bracket.sat"	1.000000
+	Instance	"Bracket"	{03A71A8F-C905-4834-A545-78F2BF9FFCAD}	 0.000000, -0.000000, 0.000000, 54.100000, 35.331000, 17.079840	Assembly
+Assembly	"Mech\heat_sink.stp"	1.000000
+	Instance	"HeatSink"	{88E01BBF-D535-47DC-8CC1-4EFB563FC60B}	 1.570796, -0.000000, -3.141592, 135.936036, 38.355000, 2.900000	Assembly
+Assembly	"Mech\top_enclosure_logo.sat"	1.000000
+	Instance	"EnclosureTop"	{8C72779E-D651-4A80-B677-9FDAEC232FC1}	 0.000000, -0.000000, 0.000000, 53.800000, 36.700000, 18.000000	Assembly

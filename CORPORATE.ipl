@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<PartListerConfiguration version="3">
+  <Entry name="description" value=""/>
+  <Entry name="outputFormat" value="HTML"/>
+  <Entry name="outputFileExt" value="htm"/>
+  <Entry name="pagination" value="YES"/>
+  <Entry name="pagelength" value="150"/>
+  <Entry name="delimiter" value=" "/>
+  <Entry name="delimiterbefore" value="NO"/>
+  <Entry name="delimiterafter" value="NO"/>
+  <Entry name="addTitleRow" value="YES"/>
+  <Entry name="ignoreColumnWidths" value="NO"/>
+  <Header>
+    <Line text="Part Lister output for $(NAME)"/>
+    <Line text="Generated on $(DATE)"/>
+  </Header>
+  <Columns>
+    <Column type="NUMBER" label="#" width="4"/>
+    <Column type="QUANTITY" label="QTY" width="10" justification="LEFT" sum="YES"/>
+    <Column type="PROPERTY" property="Ref Designator" label="REFDES" width="10" justification="LEFT" sort="ASCENDING" key="SECONDARY" display="Full"/>
+    <Column type="PROPERTY" property="Part Number" label="PART NUMBER" width="20" sort="ASCENDING" key="PRIMARY" display="Compress"/>
+    <Column type="PROPERTY" property="PKG_TYPE" label="PACKAGE" width="20" display="Compress"/>
+    <Column type="PROPERTY" property="Value" label="VALUE" width="20" display="Compress"/>
+    <Column type="PROPERTY" property="Cost" label="COST" width="5" dec="2" display="Compress"/>
+    <Column type="PROPERTY" property="Description" label="DESCRIPTION" width="50" display="Compress"/>
+  </Columns>
+</PartListerConfiguration>

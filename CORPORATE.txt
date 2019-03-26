@@ -1,0 +1,78 @@
+CORPORATE                                                 Friday, May 03, 2013 09:53 AM                                                    Page  1
+
+Part Lister output for CORPORATE
+Generated on Friday, May 03, 2013
+#    QTY        REFDES     PART NUMBER          PACKAGE              VALUE                COST  DESCRIPTION                                       
+--------------------------------------------------------------------------------------------------------------------------------------------------
+ 1   2          C1,C2      12337-CAP            CC1206               0.01uF               0.35  CAP, CER, SMD, 1206, 16V, .01UF, 5%               
+ 2   11         C3,C4,C5,  12321-CAP            CC1206               10uF                 0.35  CAP, CER, SMD, 1206, 16V, 10UF, 10%               
+                C17,C23,                                                                                                                          
+                C31,C36,                                                                                                                          
+                C37,C39,                                                                                                                          
+                C40,C42                                                                                                                           
+ 3   4          C6,C35,    12342-CAP            DCAP_SR21            10uF                 0.27  CAP, CER, THRU, SR21, 16V, 10UF, 5%               
+                C38,C41                                                                                                                           
+ 4   1          C7         12303-CAP            CC7343               10uF                 0.35  CAP, CER, SMD, 7343, 16V, 10UF, 5%                
+ 5   15         C8,C10,    12333-CAP            CC1206               0.1uF                0.35  CAP, CER, SMD, 1206, 16V, .1UF, 5%                
+                C11,C14,                                                                                                                          
+                C16,C18,                                                                                                                          
+                C19,C20,                                                                                                                          
+                C27,C30,                                                                                                                          
+                C32,C33,                                                                                                                          
+                C34,C43,                                                                                                                          
+                C44                                                                                                                               
+ 6   2          C9,C12     12344-CAP            CC0805               0.22uF               0.35  CAP, CER, SMD, 0805, 16V, .22UF, 10%              
+ 7   2          C15,C24    12325-CAP            CC1206               33pF                 0.35  CAP, CER, SMD, 1206, 16V, 33PF, 5%                
+ 8   6          C21,C22,   12335-CAP            CC1206               0.1uF                0.35  CAP, CER, SMD, 1206, 16V, .1UF, 10%               
+                C25,C26,                                                                                                                          
+                C28,C29                                                                                                                           
+ 9   1          L1         200_LED_AK           LEDR_AK              GREEN                0.3   GREEN, ANODE/CATHODE, 3.3V                        
+ 10  1          L2         202_LED_AK           LEDR_AK              RED                  0.3   RED, ANODE/CATHODE, 3.3V                          
+ 11  1          L3         201_LED_AK           LEDR_AK              BLUE                 0.3   BLUE, ANODE/CATHODE, 3.3V                         
+ 12  1          L4         203_LED_AK           LEDR_AK              YELLOW               0.3   YELLOW, ANODE/CATHODE, 3.3V                       
+ 13  1          P1         301_5PIN-RANG        CONHDR5RA            5PIN-RIGHT-ANGLE     3     5 PIN, RIGHTANGLE, 100MILSPACE, 55PADS            
+ 14  1          P2         304_120PIN_PCI_50MIL CFIN_PCI_120P_32BIT_ 120-PIN-CONNECTOR    0.1   120PIN,PCI STYLE CONNECTOR, .50 INCH PITCH        
+                                                3V3                                                                                               
+ 15  4          R1,R2,R3,  167-RES              CC0805               68.1K                0.01  RES, TF, SMD, 0805, 68.1K OHMS, 1%                
+                R5                                                                                                                                
+ 16  10         R4,R8,R13, 107-RES              CC1206               5.1K                 0.03  RES, TF, SMD, 1206, 5.1K OHMS, 1%                 
+                R14,R23,                                                                                                                          
+                R26,R27,                                                                                                                          
+                R28,R29,                                                                                                                          
+                R37                                                                                                                               
+ 17  5          R6,R7,R9,  168-RES              CC0805               10K                  0.01  RES, TF, SMD, 0805, 10K OHMS, 1%                  
+                R10,R11                                                                                                                           
+ 18  2          R12,R18    169-RES              CC0805               100                  0.01  RES, TF, SMD, 0805, 100 OHMS, 1%                  
+ 19  6          R15,R16,   113-RES              CC0805               698K                 0.10  RES, TF, SMD, 0805, 698K OHMS, 1%                 
+                R19,R20,                                                                                                                          
+                R21,R22                                                                                                                           
+ 20  1          R17        102-RES              CC1206               10K                  0.04  RES, TF, SMD, 1206, 10K OHMS, 1%                  
+ 21  9          R24,R25,   101-RES              CC1206               10K                  0.04  RES, TF, SMD, 1206, 10K OHMS, 1%                  
+                R30,R31,                                                                                                                          
+                R32,R33,                                                                                                                          
+                R34,R35,                                                                                                                          
+                R36                                                                                                                               
+ 22  3          U1,U7,U13  502_5R5V_IC          SOP48                                     0.15  48PIN, 5.5V, 16244                                
+ 23  2          U2,U3      516-DIFFRCV          SO8M1                                     .85   DIFFERENTIAL RECIEVER                             
+ 24  2          U4,U5      515-DIFFDRV          SO8M1                                     .75   DIFFERENTIAL DRIVER                               
+ 25  1          U6         517-3R3V_IC          SO20                                      1.2   20PIN, 3.3V, XC18V00                              
+ 26  1          U8         500_5R5V_IC          PQFP132                                   5.10  132PIN, 5.5V, 68302                               
+ 27  1          U9         520-LP2985_IC        SOT25                                     .85   SOT23-5 150mA Voltage Regulator                   
+ 28  4          U10,U14,   504_5R5V_IC          SO32M1                                    0.45  32PIN, 5.5V, FLASH_128K                           
+                U18,U28                                                                                                                           
+ 29  1          U11        512-3R3V_BGA         BGA264_50                                 4.50  264BGA,BALL GRID ARRAY, 50 MIL SPACE, 30PADS      
+ 30  1          U12        514-VIRTEX-FPGA      BGA17X17_256_1MM                          2.50  256 PIN VIRTEX2 FPGA                              
+ 31  1          U15        507_5V_IC            DIP16                                     0.35  DIP PACKAGE, 16 PIN, 5V, 100MIL, STD WIDTH        
+ 32  1          U16        509_3R3V_IC          DIP14                                     0.15  DIP, 14 PIN, 3.3V, 100MIL, STD WIDTH              
+ 33  1          U17        508_3R3V_IC          DIP14                                     0.25  DIP PACKAGE, 14 PIN, 3.3V, 100MIL, STD WIDTH      
+ 34  4          U19,U20,   510_5V_IC            SO24L                145421               0.32  SMD, 24 PIN, 5V, 100MIL, STD WIDTH                
+                U21,U22                                                                                                                           
+ 35  1          U23        506_5V_IC            SOIC16                                    0.50  16 PIN, 5V, 100MIL, STD WIDTH                     
+ 36  4          U24,U25,   511-5V_IC            SO16                 74HC192              1.50  16PIN,5V,74HC192                                  
+                U26,U27                                                                                                                           
+ 37  2          U29,U30    519-AD8639_IC        SO8NB                                     1.2   SO8, AD8639 Quad Op Amp                           
+ 38  1          U101       521-5V_IC            SO8NB                                           SO8 10bit Serial ADC with Shutdown                
+ 39  1          X1         400_20MHZ_CRYST      XTAL_HC49SMT         20MHZ                0.4   CRYSTAL, 20MHZ, 9V, STANDUP                       
+ 40  1          X3         402_3R584MHZ_CRYST   XTAL_GULL_W          3.584MHZ             0.37  CRYSTAL, 3.584MHZ, 5V, LAYDOWN                    
+     ----------                                                                                                                                   
+     119                                                                                                                                          

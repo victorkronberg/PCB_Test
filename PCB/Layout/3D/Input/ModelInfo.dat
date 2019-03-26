@@ -1,0 +1,351 @@
+RefDes: 38
+FactPartName: 521-5V_IC
+SubSeriesName: MAX1242_MAX1243_SA
+PartNum: MAX1242ACSA
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_NB\xd_soic_nb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\Maxim\Analog_to_Digital_Converters\MAX1242_MAX1243\MAX1242_MAX1243_SA.etd
+
+
+RefDes: 33
+FactPartName: 515-DIFFDRV
+SubSeriesName: FIN1027
+PartNum: FIN1027M
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_NB\xd_soic_nb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\Fairchild\Logic\Buffers_Drivers_Transceivers\Differential_Driver\FIN1027\FIN1027.etd
+
+
+RefDes: 30
+FactPartName: 511-5V_IC
+SubSeriesName: 74HC192
+PartNum: 74HC192
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_NB\xd_soic_nb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\NXP\Logic\Counters\74HC192\74HC192.etd
+
+
+RefDes: 20
+FactPartName: 400_20MHZ_CRYST
+SubSeriesName: CSM-7X-DU
+PartNum: ECS-270-20-5PXDU-TR
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Crystal\XD_XTAL_CSM\xd_xtal_csm.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ECS\Crystals\Surface_Mount\CSM-7X-DU\CSM-7X-DU.etd
+
+
+RefDes: 37
+FactPartName: 520-LP2985_IC
+SubSeriesName: LP2985_IM
+PartNum: LP2985IM5X-6.1
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOT23-5\xd_sot23-5.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\TI\Power_Management\Linear_Regulators\Single_Channel_LDO\LP2985\LP2985_IM.etd
+
+
+RefDes: 34
+FactPartName: 516-DIFFRCV
+SubSeriesName: FIN1027
+PartNum: FIN1027M
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_NB\xd_soic_nb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\Fairchild\Logic\Buffers_Drivers_Transceivers\Differential_Driver\FIN1027\FIN1027.etd
+
+
+RefDes: 35
+FactPartName: 517-3R3V_IC
+SubSeriesName: XC18V00-SO20
+PartNum: XC18V01SO20C
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_WB\xd_soic_wb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\Xilinx\PROMs\In-System-Programmable\XC18V00\XC18V00-SO20.etd
+
+
+RefDes: 0
+FactPartName: 101-RES
+SubSeriesName: MCR
+PartNum: MCR18ERTF10K0
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Resistor\Chip\XD_RESCR\xd_rescr.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.etd
+
+
+RefDes: 1
+FactPartName: 102-RES
+SubSeriesName: MCR
+PartNum: MCR18ERTF10K0
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Resistor\Chip\XD_RESCR\xd_rescr.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.etd
+
+
+RefDes: 2
+FactPartName: 107-RES
+SubSeriesName: MCR
+PartNum: MCR18ERTF5K10
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Resistor\Chip\XD_RESCR\xd_rescr.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.etd
+
+
+RefDes: 32
+FactPartName: 514-VIRTEX-FPGA
+SubSeriesName: VIRTEX-II
+PartNum: XC2V1000-5FG256C
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\BGA\XD_BGA\xd_bga.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\Xilinx\FPGA\VIRTEX-II\VIRTEX-II.etd
+
+
+RefDes: 3
+FactPartName: 113-RES
+SubSeriesName: MCR
+PartNum: MCR10ERTF698K
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Resistor\Chip\XD_RESCR\xd_rescr.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.etd
+
+
+RefDes: 31
+FactPartName: 512-3R3V_BGA
+SubSeriesName: DSP
+PartNum: DSP-BGA264
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\BGA\XD_BGA264\xd_bga264.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\XD\DSP\DSP.etd
+
+
+RefDes: 21
+FactPartName: 402_3R584MHZ_CRYST
+SubSeriesName: VF540
+PartNum: VF540BH-2-3.584MHZ
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Crystal\XD_XTAL_4SMD\xd_xtal_4smd.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\Valpey_Fisher\Commercial_Oscillators\XO\VF540\VF540.etd
+
+
+RefDes: 12
+FactPartName: 167-RES
+SubSeriesName: MCR
+PartNum: MCR10ERTF68K1
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Resistor\Chip\XD_RESCR\xd_rescr.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.etd
+
+
+RefDes: 13
+FactPartName: 168-RES
+SubSeriesName: MCR
+PartNum: MCR10ERTF10K0
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Resistor\Chip\XD_RESCR\xd_rescr.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.etd
+
+
+RefDes: 14
+FactPartName: 169-RES
+SubSeriesName: MCR
+PartNum: MCR10ERTF100R
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Resistor\Chip\XD_RESCR\xd_rescr.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.etd
+
+
+RefDes: 36
+FactPartName: 519-AD8639_IC
+SubSeriesName: AD8638_AD8639_WARZ
+PartNum: AD8639ARZ
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_NB\xd_soic_nb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\Analog_Devices\Amplifiers_Linear\Operational_Amplifiers\AD8638_AD8639\AD8638_AD8639_WARZ.etd
+
+
+RefDes: 22
+FactPartName: 500_5R5V_IC
+SubSeriesName: MC68302
+PartNum: MC68302
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Quad\XD_QFP\xd_qfp.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\XD\MC68302\MC68302.etd
+
+
+RefDes: 23
+FactPartName: 502_5R5V_IC
+SubSeriesName: CY74FCT162
+PartNum: CY74FCT16244CTPVC
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SSOP\xd_ssop.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\TI\Logic\Buffer_Driver_Transceiver\Non-Inverting_Buffer_Driver\CY74FCT162\CY74FCT162.etd
+
+
+RefDes: 24
+FactPartName: 504_5R5V_IC
+SubSeriesName: MC74LCX125
+PartNum: MC74LCX125
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_WB\xd_soic_wb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\On_Semiconductor\Standard_Logic\Buffers\MC74LCX125\MC74LCX125.etd
+
+
+RefDes: 27
+FactPartName: 508_3R3V_IC
+SubSeriesName: 74AC32SC_74ACT32SC
+PartNum: 74AC32SC
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_NB\xd_soic_nb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\Fairchild\Logic\Gates\OR_Gates\74AC32_74ACT32\74AC32SC_74ACT32SC.etd
+
+
+RefDes: 28
+FactPartName: 509_3R3V_IC
+SubSeriesName: 74AC32SC_74ACT32SC
+PartNum: 74AC32SC
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_NB\xd_soic_nb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\Fairchild\Logic\Gates\OR_Gates\74AC32_74ACT32\74AC32SC_74ACT32SC.etd
+
+
+RefDes: 10
+FactPartName: 12342-CAP
+SubSeriesName: SR_LK
+PartNum: SR215E104MARTR1
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Capacitor\Radial\XD_CAPRO_LK\xd_capro_lk.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\AVX\Capacitors\Ceramic\Leaded\SR\SR_LK.etd
+
+
+RefDes: 11
+FactPartName: 12344-CAP
+SubSeriesName: TCFG
+PartNum: TCFGA1C225M8R
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Capacitor\Chip\Molded\XD_CAPCM\xd_capcm.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Tantalum_Capacitors\TC\TCFG.etd
+
+
+RefDes: 5
+FactPartName: 12321-CAP
+SubSeriesName: TCFG
+PartNum: TCFGA1C105M8R
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Capacitor\Chip\Molded\XD_CAPCM\xd_capcm.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Tantalum_Capacitors\TC\TCFG.etd
+
+
+RefDes: 6
+FactPartName: 12325-CAP
+SubSeriesName: TCFG
+PartNum: TCFGA1C335M8R
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Capacitor\Chip\Molded\XD_CAPCM\xd_capcm.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Tantalum_Capacitors\TC\TCFG.etd
+
+
+RefDes: 7
+FactPartName: 12333-CAP
+SubSeriesName: TCFG
+PartNum: TCFGA1C106M8R
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Capacitor\Chip\Molded\XD_CAPCM\xd_capcm.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Tantalum_Capacitors\TC\TCFG.etd
+
+
+RefDes: 8
+FactPartName: 12335-CAP
+SubSeriesName: TCFG
+PartNum: TCFGA1C106M8R
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Capacitor\Chip\Molded\XD_CAPCM\xd_capcm.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Tantalum_Capacitors\TC\TCFG.etd
+
+
+RefDes: 9
+FactPartName: 12337-CAP
+SubSeriesName: TCFG
+PartNum: TCFGA1C105M8R
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Capacitor\Chip\Molded\XD_CAPCM\xd_capcm.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Tantalum_Capacitors\TC\TCFG.etd
+
+
+RefDes: 19
+FactPartName: 301_5PIN-RANG
+SubSeriesName: SSW-TH-S-RA
+PartNum: SSW-105-01-F-S-RA_R
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Connector\Socket_Strip\XD_CONNSS1R_RA\xd_connss1r_ra.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\Samtec\Standard_Board_to_Board\100_inch_pitch_square_post_systems\SSW-TH\SSW-TH-S-RA.etd
+
+
+RefDes: 4
+FactPartName: 12303-CAP
+SubSeriesName: TCFG
+PartNum: TCFGD1C107MCR
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\Capacitor\Chip\Molded\XD_CAPCM\xd_capcm.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\ROHM\Passive_Components\Tantalum_Capacitors\TC\TCFG.etd
+
+
+RefDes: 25
+FactPartName: 506_5V_IC
+SubSeriesName: 74HC174_74HCT174
+PartNum: 74HC174
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_NB\xd_soic_nb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\NXP\Logic\Flip_Flops\74HC174_74HCT174\74HC174_74HCT174.etd
+
+
+RefDes: 26
+FactPartName: 507_5V_IC
+SubSeriesName: SN74HC174D
+PartNum: SN74HC174D
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_NB\xd_soic_nb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\TI\Logic\Flip-Flop_Latch_Register\D-Type_Flip-Flop\SN54HC174_SN74HC174\SN74HC174D.etd
+
+
+RefDes: 29
+FactPartName: 510_5V_IC
+SubSeriesName: 74HC00
+PartNum: 74HC00_DIP
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\SO\XD_SOIC_WB\xd_soic_wb.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\NXP\Logic\Counters\74HC192\74HC00.etd
+
+
+RefDes: 15
+FactPartName: 200_LED_AK
+SubSeriesName: L503
+PartNum: L503GD-H401
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\LED\XD_LEDF\xd_ledf.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\AOPLI\CBI_LED\Single_Level_CBI_LED_Lamp\L503\L503.etd
+
+
+RefDes: 16
+FactPartName: 201_LED_AK
+SubSeriesName: L503
+PartNum: L503BD-H401
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\LED\XD_LEDF\xd_ledf.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\AOPLI\CBI_LED\Single_Level_CBI_LED_Lamp\L503\L503.etd
+
+
+RefDes: 17
+FactPartName: 202_LED_AK
+SubSeriesName: L503
+PartNum: L503HD-H401
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\LED\XD_LEDF\xd_ledf.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\AOPLI\CBI_LED\Single_Level_CBI_LED_Lamp\L503\L503.etd
+
+
+RefDes: 18
+FactPartName: 203_LED_AK
+SubSeriesName: L503
+PartNum: L503YD-H401
+Side: 
+PRT: C:\MentorGraphics\M3DL\3DLT\PartDB\Packages\LED\XD_LEDF\xd_ledf.prt
+PTD: C:\MentorGraphics\M3DL\3DLT\PartDB\AOPLI\CBI_LED\Single_Level_CBI_LED_Lamp\L503\L503.etd
+
+

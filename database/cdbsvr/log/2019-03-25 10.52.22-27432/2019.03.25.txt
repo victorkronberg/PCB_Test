@@ -1,0 +1,266 @@
+[2019.03.25 10:52:22] [0000m.00s.054ms] [0] WELCOME
+[2019.03.25 10:52:22] [0000m.00s.058ms] [1] iCDB Server ver.2.205, D1PPEPg28i9edg/tjYlvRQ, build:12449202 created 2018-12-06 13:26:39, sources stamp:D1PPEPg28i9edg/tjYlvRQ
+[2019.03.25 10:52:22] [0000m.00s.058ms] [1] Copyright 2019 Mentor Graphics Corporation.  All Rights Reserved.
+[2019.03.25 10:52:22] [0000m.00s.058ms] [1] Base flow version [VX.2.5]
+[2019.03.25 10:52:22] [0000m.00s.058ms] [1] Install Id [1935766], Flow Id [X-ENTP VX.2.5], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.5], Exact Access Date [2019/02/01]
+[2019.03.25 10:52:22] [0000m.00s.058ms] [1] Install Id [1935760], Flow Id [X-ICP VX.2.5], Full Flow Name [Xpedition IC Packaging VX.2.5], Exact Access Date [2019/02/01]
+[2019.03.25 10:52:22] [0000m.00s.067ms] [1] Machine [COB-VKRONBER-55]  IP [127.0.0.1,134.86.113.116]  User [vkronber]  PID [27432]
+[2019.03.25 10:52:22] [0000m.00s.067ms] [1] Operating system [Microsoft Windows 10 Enterprise Edition, 64-bit (build 17134)]
+[2019.03.25 10:52:22] [0000m.00s.067ms] [1] Current working dir [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6]
+[2019.03.25 10:52:22] [0000m.00s.067ms] [1] PATH [C:\MentorGraphics\EEVX.2.5\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.5\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.5\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.5\MGC_HOME.ixw\lib;C:\ActiveTcl\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\Python27;C:\Program Files\Git\cmd;C:\Users\vkronber\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;]
+[2019.03.25 10:52:22] [0000m.00s.067ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.5\SDD_HOME] on file system [NTFS]
+[2019.03.25 10:52:22] [0000m.00s.067ms] [1] SDD_PLATFORM [win64]
+[2019.03.25 10:52:22] [0000m.00s.067ms] [1] WDIR [C:\WDIR\EEVX.2.5;C:\AATK;C:\XPITK\wdir;C:\MentorGraphics\EEVX.2.5\SDD_HOME\standard;]
+[2019.03.25 10:52:22] [0000m.00s.067ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.5\iCDB] on file system [NTFS]
+[2019.03.25 10:52:22] [0000m.00s.067ms] [1] Corporate iCDB working dir [C:\XPITK\wdir\iCDB] on file system [NTFS]
+[2019.03.25 10:52:22] [0000m.00s.067ms] [1] Corporate iCDB working dir [C:\AATK\iCDB] on file system [NTFS]
+[2019.03.25 10:52:22] [0000m.00s.069ms] [2] S: Loading config files
+[2019.03.25 10:52:22] [0000m.00s.069ms] [1] Corporate config file [C:\XPITK\wdir\iCDB\Plugins\Plugins.cfg] not found
+[2019.03.25 10:52:22] [0000m.00s.069ms] [1] Corporate config file [C:\AATK\iCDB\Plugins\Plugins.cfg] not found
+[2019.03.25 10:52:22] [0000m.00s.072ms] [1] Corporate config file [C:\XPITK\wdir\iCDB\Server\Server.cfg] not found
+[2019.03.25 10:52:22] [0000m.00s.072ms] [1] Corporate config file [C:\AATK\iCDB\Server\Server.cfg] not found
+[2019.03.25 10:52:22] [0000m.00s.074ms] [1] Config file [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database\cdbsvr\Server.cfg] not found
+[2019.03.25 10:52:22] [0000m.00s.077ms] [3] S: Config loaded
+[2019.03.25 10:52:22] [0000m.00s.081ms] [0] S: Project path [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database] on file system [NTFS]
+[2019.03.25 10:52:22] [0000m.00s.081ms] [0] S: Project file (.prj) path [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\Lesson6.prj] on file system [NTFS]
+[2019.03.25 10:52:22] [0000m.00s.084ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] S: Single-user mode (auto)
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] S: Event polling mode autodetection
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] S: Started up automatically by iCDB Client: COB-VKRONBER-55:vkronber:440
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] S: Auto close mode
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] S: Database ID [7d14-c88c-92cf-3b9c-5470-99ca-4709-9c50-546d-16d2-d3b3-60fc]
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: BEGIN dumping
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: Local -> global path prefix list
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: [C:\MentorGraphics_Data\Vault] -> [\\COB-VKRONBER-55\Vault]
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: [C:\temp] -> [\\COB-VKRONBER-55\temp]
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: [U:\] -> [\\mgc.mentorg.com\home\vkronber\]
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: [Z:\] -> [\\mgc.mentorg.com\site\cob\pcb\]
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: Global -> local path prefix list
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: [\\mgc.mentorg.com\home\vkronber\] -> [U:\]
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: [\\mgc.mentorg.com\site\cob\pcb\] -> [Z:\]
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: [\\COB-VKRONBER-55\Vault] -> [C:\MentorGraphics_Data\Vault]
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: [\\COB-VKRONBER-55\temp] -> [C:\temp]
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] PathTranslator: END dumping
+[2019.03.25 10:52:22] [0000m.00s.084ms] [0] S: START
+[2019.03.25 10:52:22] [0000m.00s.086ms] [0] S: Server startup lock file created
+[2019.03.25 10:52:22] [0000m.00s.087ms] [0] S: Listening for client connections on port [10001]
+[2019.03.25 10:52:22] [0000m.00s.090ms] [0] S: Server network ID [cob-vkronber-55:134.86.113.116,cob-vkronber-55,cob-vkronber-55.cob.mentorg.com:10001]
+[2019.03.25 10:52:22] [0000m.00s.090ms] [0] S: Server GUID [07a5-c568-87ff-b644-6470-99cb-4709-9c50-563d-16d2-d3b3-60fc]
+[2019.03.25 10:52:22] [0000m.00s.090ms] [0] S: Project GUID [7d14-c88c-92cf-3b9c-5470-99ca-4709-9c50-546d-16d2-d3b3-60fc]
+[2019.03.25 10:52:22] [0000m.00s.092ms] [0] S: Wrote data to server address file
+[2019.03.25 10:52:22] [0000m.00s.093ms] [0] S: Server startup lock file removed
+[2019.03.25 10:52:22] [0000m.00s.093ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\Lesson6.prj]
+[2019.03.25 10:52:23] [0000m.01s.215ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2019.03.25 10:52:23] [0000m.01s.215ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.5\SDD_HOME\iCDB\win64\bin]
+[2019.03.25 10:52:23] [0000m.01s.216ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.5\SDD_HOME\common\win64\bin]
+[2019.03.25 10:52:23] [0000m.01s.217ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2019.03.25 10:52:23] [0000m.01s.217ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2019.03.25 10:52:23] [0000m.01s.217ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2019.03.25 10:52:23] [0000m.01s.218ms] [0] S: Local disc access time: 100 us
+[2019.03.25 10:52:23] [0000m.01s.218ms] [0] S: File server access time: 85 us
+[2019.03.25 10:52:23] [0000m.01s.221ms] [0] Single file [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database\icdb.dat] size [1842144 (1.8 MB)]
+[2019.03.25 10:52:23] [0000m.01s.225ms] [1] Single file [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database\icdb.dat] opened in read-write mode
+[2019.03.25 10:52:23] [0000m.01s.225ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2019.03.25 10:52:23] [0000m.01s.225ms] [0] Database GUARD OK: [1842144]
+[2019.03.25 10:52:23] [0000m.01s.227ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2019.03.25 10:52:23] [0000m.01s.227ms] [0] Database GUARD OK: [1842144]
+[2019.03.25 10:52:23] [0000m.01s.227ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2019.03.25 10:52:23] [0000m.01s.227ms] [0] Database GUARD OK: [1842144]
+[2019.03.25 10:52:23] [0000m.01s.227ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2019.03.25 10:52:23] [0000m.01s.228ms] [0] Database GUARD OK: [1842144]
+[2019.03.25 10:52:23] [0000m.01s.229ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2019.03.25 10:52:23] [0000m.01s.229ms] [0] Database GUARD OK: [1842144]
+[2019.03.25 10:52:23] [0000m.01s.229ms] [0] SingleFile: [16f1-782a-bd7c-38e9] SFI version check [1009] [1009]
+[2019.03.25 10:52:23] [0000m.01s.260ms] [0] SingleFile: [16f1-782a-bd7c-38e9] Database SFI header has been read in [31ms 653us]
+[2019.03.25 10:52:23] [0000m.01s.264ms] [0] iCDB Server PI: Server & plugin session [2018]
+[2019.03.25 10:52:23] [0000m.01s.264ms] [0] iCDB Server PI: Opening database [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database]
+[2019.03.25 10:52:23] [0000m.01s.264ms] [0] iCDB Server PI: Database [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database] opened
+[2019.03.25 10:52:23] [0000m.01s.362ms] [0] iCDB Database: Checking existence of constraint definitions
+[2019.03.25 10:52:23] [0000m.01s.362ms] [0] iCDB Database: Checking constraint definitions version
+[2019.03.25 10:52:23] [0000m.01s.474ms] [0] iCDB Database: Creating database content backup before upgrade
+[2019.03.25 10:52:23] [0000m.01s.474ms] [1] iCDB Storage Server: Database backup: ProjectPath[C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database]
+[2019.03.25 10:52:23] [0000m.01s.501ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database\cdbback\2019-03-25 10.52.23-27432.zip]
+[2019.03.25 10:52:23] [0000m.01s.598ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database\cdbback\2019-03-25 10.52.23-27432.zip]
+[2019.03.25 10:52:23] [0000m.01s.600ms] [0] iCDB Database: Database content backed up to [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database\cdbback\2019-03-25 10.52.23-27432.zip] of size [2 074 993 bytes (2.0 MB)]  in [125ms 471us]
+[2019.03.25 10:52:23] [0000m.01s.608ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.64;user.cns=6a18-cefe-d554-05e1-e521-a8b3-621a-8b50-b32a-717f-60bd-29c8]
+[2019.03.25 10:52:23] [0000m.01s.622ms] [0] iCDB Database: Loading snapshot [1:DxD] version [3600]
+[2019.03.25 10:52:23] [0000m.01s.666ms] [0] iCDB Database: Snapshot [1:DxD] loaded in [44ms 287us]
+[2019.03.25 10:52:23] [0000m.01s.666ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DxD]
+[2019.03.25 10:52:24] [0000m.01s.946ms] [0] iCDB Database: Constraint definitions for snapshot [1:DxD] upgraded in [279ms 542us]
+[2019.03.25 10:52:24] [0000m.01s.946ms] [0] iCDB Database: Saving snapshot [1:DxD]
+[2019.03.25 10:52:24] [0000m.01s.946ms] [0] iCDB Database: Snapshot [1:DxD] saved in [246us]
+[2019.03.25 10:52:24] [0000m.01s.946ms] [1] Diagnostic: Cdb_cmp_dxd_view maps are not equal in size
+[2019.03.25 10:52:24] [0000m.01s.946ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2019.03.25 10:52:24] [0000m.01s.946ms] [1] Diagnostic: Warning: {[RectDxD] [10] } --> UID does not exist
+[2019.03.25 10:52:24] [0000m.01s.964ms] [1] Diagnostic: Snapshot [1:DxD] integrity check FAILED
+[2019.03.25 10:52:24] [0000m.01s.973ms] [0] iCDB Database: Loading snapshot [2:_savepoint[SCH][288230389036613634][4971974010091864066][2:36:54_9-20-11][1316486226]] version [3600]
+[2019.03.25 10:52:24] [0000m.01s.978ms] [0] iCDB Database: Snapshot [2:_savepoint[SCH][288230389036613634][4971974010091864066][2:36:54_9-20-11][1316486226]] loaded in [5ms 142us]
+[2019.03.25 10:52:24] [0000m.01s.978ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:_savepoint[SCH][288230389036613634][4971974010091864066][2:36:54_9-20-11][1316486226]]
+[2019.03.25 10:52:24] [0000m.01s.988ms] [0] iCDB Database: Constraint definitions for snapshot [2:_savepoint[SCH][288230389036613634][4971974010091864066][2:36:54_9-20-11][1316486226]] upgraded in [9ms 859us]
+[2019.03.25 10:52:24] [0000m.01s.988ms] [0] iCDB Database: Saving snapshot [2:_savepoint[SCH][288230389036613634][4971974010091864066][2:36:54_9-20-11][1316486226]]
+[2019.03.25 10:52:24] [0000m.01s.989ms] [0] iCDB Database: Snapshot [2:_savepoint[SCH][288230389036613634][4971974010091864066][2:36:54_9-20-11][1316486226]] saved in [61us]
+[2019.03.25 10:52:24] [0000m.01s.992ms] [0] iCDB Database: Loading snapshot [3:CORPORATE_layout_temp] version [3600]
+[2019.03.25 10:52:24] [0000m.02s.005ms] [0] iCDB Database: Snapshot [3:CORPORATE_layout_temp] loaded in [13ms 688us]
+[2019.03.25 10:52:24] [0000m.02s.005ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:CORPORATE_layout_temp]
+[2019.03.25 10:52:24] [0000m.02s.121ms] [0] iCDB Database: Constraint definitions for snapshot [3:CORPORATE_layout_temp] upgraded in [115ms 884us]
+[2019.03.25 10:52:24] [0000m.02s.121ms] [0] iCDB Database: Saving snapshot [3:CORPORATE_layout_temp]
+[2019.03.25 10:52:24] [0000m.02s.122ms] [0] iCDB Database: Snapshot [3:CORPORATE_layout_temp] saved in [79us]
+[2019.03.25 10:52:24] [0000m.02s.136ms] [0] iCDB Database: Loading snapshot [4:CORPORATE] version [3600]
+[2019.03.25 10:52:24] [0000m.02s.150ms] [0] iCDB Database: Snapshot [4:CORPORATE] loaded in [14ms 342us]
+[2019.03.25 10:52:24] [0000m.02s.151ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:CORPORATE]
+[2019.03.25 10:52:24] [0000m.02s.267ms] [0] iCDB Database: Constraint definitions for snapshot [4:CORPORATE] upgraded in [116ms 892us]
+[2019.03.25 10:52:24] [0000m.02s.267ms] [0] iCDB Database: Saving snapshot [4:CORPORATE]
+[2019.03.25 10:52:24] [0000m.02s.268ms] [0] iCDB Database: Snapshot [4:CORPORATE] saved in [123us]
+[2019.03.25 10:52:24] [0000m.02s.283ms] [0] iCDB Database: Loading snapshot [5:RefSync] version [3600]
+[2019.03.25 10:52:24] [0000m.02s.311ms] [0] iCDB Database: Snapshot [5:RefSync] loaded in [27ms 503us]
+[2019.03.25 10:52:24] [0000m.02s.311ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [5:RefSync]
+[2019.03.25 10:52:24] [0000m.02s.474ms] [0] iCDB Database: Constraint definitions for snapshot [5:RefSync] upgraded in [162ms 959us]
+[2019.03.25 10:52:24] [0000m.02s.474ms] [0] iCDB Database: Saving snapshot [5:RefSync]
+[2019.03.25 10:52:24] [0000m.02s.474ms] [0] iCDB Database: Snapshot [5:RefSync] saved in [251us]
+[2019.03.25 10:52:24] [0000m.02s.495ms] [0] iCDB Database: Loading snapshot [6:CORPORATE_RefSync] version [3600]
+[2019.03.25 10:52:24] [0000m.02s.509ms] [0] iCDB Database: Snapshot [6:CORPORATE_RefSync] loaded in [13ms 386us]
+[2019.03.25 10:52:24] [0000m.02s.509ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [6:CORPORATE_RefSync]
+[2019.03.25 10:52:24] [0000m.02s.625ms] [0] iCDB Database: Constraint definitions for snapshot [6:CORPORATE_RefSync] upgraded in [116ms 16us]
+[2019.03.25 10:52:24] [0000m.02s.625ms] [0] iCDB Database: Saving snapshot [6:CORPORATE_RefSync]
+[2019.03.25 10:52:24] [0000m.02s.625ms] [0] iCDB Database: Snapshot [6:CORPORATE_RefSync] saved in [74us]
+[2019.03.25 10:52:24] [0000m.02s.640ms] [0] iCDB Database: Loading snapshot [7:CORPORATE_LDDTemp] version [3600]
+[2019.03.25 10:52:25] [0000m.02s.681ms] [0] iCDB Database: Snapshot [7:CORPORATE_LDDTemp] loaded in [41ms 397us]
+[2019.03.25 10:52:25] [0000m.02s.682ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [7:CORPORATE_LDDTemp]
+[2019.03.25 10:52:25] [0000m.02s.827ms] [0] iCDB Database: Constraint definitions for snapshot [7:CORPORATE_LDDTemp] upgraded in [145ms 192us]
+[2019.03.25 10:52:25] [0000m.02s.827ms] [0] iCDB Database: Saving snapshot [7:CORPORATE_LDDTemp]
+[2019.03.25 10:52:25] [0000m.02s.827ms] [0] iCDB Database: Snapshot [7:CORPORATE_LDDTemp] saved in [180us]
+[2019.03.25 10:52:25] [0000m.02s.855ms] [0] iCDB Database: Loading snapshot [8:__ise_DxD] version [3600]
+[2019.03.25 10:52:25] [0000m.02s.856ms] [0] iCDB Database: Snapshot [8:__ise_DxD] loaded in [748us]
+[2019.03.25 10:52:25] [0000m.02s.856ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [8:__ise_DxD]
+[2019.03.25 10:52:25] [0000m.02s.856ms] [0] iCDB Database: Constraint definitions for snapshot [8:__ise_DxD] upgraded in [82us]
+[2019.03.25 10:52:25] [0000m.02s.856ms] [0] iCDB Database: Saving snapshot [8:__ise_DxD]
+[2019.03.25 10:52:25] [0000m.02s.856ms] [0] iCDB Database: Snapshot [8:__ise_DxD] saved in [2us]
+[2019.03.25 10:52:25] [0000m.02s.857ms] [0] iCDB Database: Loading snapshot [9:xIOPT] version [3600]
+[2019.03.25 10:52:25] [0000m.02s.857ms] [0] iCDB Database: Snapshot [9:xIOPT] loaded in [519us]
+[2019.03.25 10:52:25] [0000m.02s.858ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [9:xIOPT]
+[2019.03.25 10:52:25] [0000m.02s.858ms] [0] iCDB Database: Constraint definitions for snapshot [9:xIOPT] upgraded in [110us]
+[2019.03.25 10:52:25] [0000m.02s.858ms] [0] iCDB Database: Saving snapshot [9:xIOPT]
+[2019.03.25 10:52:25] [0000m.02s.858ms] [0] iCDB Database: Snapshot [9:xIOPT] saved in [2us]
+[2019.03.25 10:52:25] [0000m.02s.858ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.65;user.cns=1f88-883b-0b9c-6db2-6107-51cb-1075-1c50-09d9-6c39-8353-e3ff,4229-fa38-7a69-0fbd-50e3-53ca-0e35-3c50-9f03-1d99-a3d2-8370,65b3-33f1-b842-3471-0a98-d7c5-a98d-7c50-5ee9-16d2-d3b3-60fc]
+[2019.03.25 10:52:25] [0000m.02s.914ms] [0] iCDB Server PI: Initializing plugins
+[2019.03.25 10:52:25] [0000m.02s.914ms] [0] iCDB Server PI: Plugins initialized
+[2019.03.25 10:52:25] [0000m.02s.914ms] [0] S: iCDB database loaded
+[2019.03.25 10:52:27] [0000m.05s.494ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\ProjectBackup\backups\2019-03-25 10.52.25 - consDefUpgr.zip] with GUID [2284-4d4a-8105-846f-9470-99ce-4709-9c50-563d-16d2-d3b3-60fc]
+[2019.03.25 10:52:27] [0000m.05s.495ms] [1] PrjBackupMgr: Migrated iCDB content backup file [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database\cdbback\2019-03-25 10.52.23-27432.zip] removed
+[2019.03.25 10:52:27] [0000m.05s.496ms] [0] S: Starting threads
+[2019.03.25 10:52:27] [0000m.05s.497ms] [0] BT: Listening for broadcast messages on port [10000]
+[2019.03.25 10:52:27] [0000m.05s.497ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2019.03.25 10:52:27] [0000m.05s.499ms] [0] IT: Session [2019] for host [cob-vkronber-55] user [vkronber] client type[0] clsvrPluginID[0] with process ID [440] created
+[2019.03.25 10:52:27] [0000m.05s.501ms] [0] MWT: WindowProc: WM_NCCREATE
+[2019.03.25 10:52:27] [0000m.05s.505ms] [0] IT: iCDB Server Monitor session [1] for host [cob-vkronber-55] user [vkronber] with process ID [16356] created
+[2019.03.25 10:52:27] [0000m.05s.505ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2019.03.25 10:52:27] [0000m.05s.536ms] [1] SC[2019]: Registered sub-client [DxD] with ID [1] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:27] [0000m.05s.598ms] [1] CMT: There are [1] clients now: 2019
+[2019.03.25 10:52:28] [0000m.05s.739ms] [1] SC[2019]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.747ms] [1] SC[2019]: Registered sub-client [SymbolEditor] with ID [3] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.754ms] [1] SC[2019]: Registered sub-client [SelectionHolder] with ID [4] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.791ms] [1] SC[2019]: Registered sub-client [EEVM_EEVM_515824240] with ID [5] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.792ms] [1] SC[2019]: UnRegistered sub-client [EEVM_EEVM_515824240] with ID [5] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.796ms] [1] SC[2019]: Registered sub-client [EEVM_EEVM_515824240] with ID [6] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.824ms] [1] SC[2019]: UnRegistered sub-client [EEVM_EEVM_515824240] with ID [6] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.828ms] [1] SC[2019]: Registered sub-client [EEVM_EEVM_515827184] with ID [7] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.828ms] [1] SC[2019]: UnRegistered sub-client [EEVM_EEVM_515827184] with ID [7] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.834ms] [1] SC[2019]: Registered sub-client [EEVM_EEVM_515827184] with ID [8] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.858ms] [1] SC[2019]: UnRegistered sub-client [EEVM_EEVM_515827184] with ID [8] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.871ms] [1] SC[2019]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.876ms] [1] SC[2019]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:28] [0000m.05s.880ms] [1] SC[2019]: Registered sub-client [SystemDesignDll] with ID [10] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:29] [0000m.07s.025ms] [1] SC[2019]: Registered sub-client [DesignSearcher2] with ID [11] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:29] [0000m.07s.033ms] [1] SC[2019]: Registered sub-client [Core::DesignListener-316] with ID [12] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:29] [0000m.07s.040ms] [1] SC[2019]: Registered sub-client [BlockCacheDxD:517821680] with ID [13] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:29] [0000m.07s.049ms] [1] SC[2019]: Registered sub-client [Core::NetFlatData-3830] with ID [14] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:29] [0000m.07s.064ms] [1] SC[2019]: Registered sub-client [HdlProject] with ID [15] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:29] [0000m.07s.075ms] [1] SC[2019]: Registered sub-client [Navigator] with ID [16] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:29] [0000m.07s.104ms] [1] SC[2019]: Registered sub-client [OutputWindow] with ID [17] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:29] [0000m.07s.108ms] [1] SC[2019]: Registered sub-client [PlaceDevice] with ID [18] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:29] [0000m.07s.167ms] [1] SC[2019]: Registered sub-client [FFSearch_RBHost] with ID [19] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:29] [0000m.07s.176ms] [1] SC[2019]: Registered sub-client [LocalSymbolsDataProvider] with ID [20] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:30] [0000m.08s.513ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\ProjectBackup\backups\2019-03-25 10.52.27 - auto.zip] with GUID [c22a-b3b1-629e-718a-b470-99c0-5709-9c50-19dc-16d2-d3b3-60fc]
+[2019.03.25 10:52:30] [0000m.08s.513ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[c22a-b3b1-629e-718a-b470-99c0-5709-9c50-19dc-16d2-d3b3-60fc] CreationTime[Monday, March 25, 2019 16:52:27] Type[Autosave] Creator[iCDB Server (2019-03-25 10.52.22-27432)] ApplicationName[iCDB Server (2019-03-25 10.52.22-27432)] UserName[vkronber] MachineName[COB-VKRONBER-55] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.5; Xpedition IC Packaging VX.2.5] FlowId[EEVX.2.5] GBSInstallId[1935766; 1935760] GBSBuildId[12449202] IcdbVersion[3600] ReferenceLogFilePath[] BackupFilePath[C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\ProjectBackup\backups\2019-03-25 10.52.27 - auto.zip] BackupFileSize[54689282] Persistent[FALSE]
+[2019.03.25 10:52:33] [0000m.10s.770ms] [1] SC[2019]: Registered sub-client [FFSSelListener] with ID [21] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.10s.774ms] [1] SC[2019]: Registered sub-client [SAE] with ID [22] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.10s.779ms] [1] SC[2019]: Registered sub-client [CCZAddin] with ID [23] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.10s.783ms] [1] SC[2019]: Registered sub-client [DxThumbnails] with ID [24] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.10s.787ms] [1] SC[2019]: Registered sub-client [MyParts] with ID [25] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.10s.812ms] [1] SC[2019]: Registered sub-client [PinsList] with ID [26] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.10s.909ms] [1] SC[2019]: Registered sub-client [toolboxes] with ID [27] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.10s.955ms] [1] SC[2019]: Registered sub-client [IBDInstanceDialog] with ID [28] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.10s.958ms] [1] SC[2019]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:518466848] with ID [29] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.004ms] [1] SC[2019]: Registered sub-client [SheetConnectorsCacheDxD:1553532753] with ID [30] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.074ms] [1] SC[2019]: Registered sub-client [NetsNamesCollectorDxD:1553532753] with ID [31] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.089ms] [1] SC[2019]: Registered sub-client [PartReplaceUtils] with ID [32] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.093ms] [1] SC[2019]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [33] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.105ms] [1] SC[2019]: Registered sub-client [xprob] with ID [34] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.130ms] [1] SC[2019]: Registered sub-client [StartServerClient6bb0] with ID [35] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.133ms] [1] SC[2019]: UnRegistered sub-client [StartServerClient6bb0] with ID [35] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.337ms] [1] SC[2019]: Registered sub-client [SharedBlockDataProvider] with ID [36] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.338ms] [1] SC[2019]: UnRegistered sub-client [SharedBlockDataProvider] with ID [36] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.341ms] [1] SC[2019]: Registered sub-client [SharedBlockDataProvider] with ID [37] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:33] [0000m.11s.341ms] [1] SC[2019]: UnRegistered sub-client [SharedBlockDataProvider] with ID [37] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:35] [0000m.12s.750ms] [1] SC[2019]: Registered sub-client [ObjectHolder_515922976] with ID [38] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:35] [0000m.12s.754ms] [1] SC[2019]: Registered sub-client [BlockCacheDxD:760821152] with ID [39] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:35] [0000m.12s.758ms] [1] SC[2019]: Registered sub-client [GlobalNetAliasUpdater_768028736] with ID [40] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:35] [0000m.12s.763ms] [1] SC[2019]: Registered sub-client [IcdbNetProcessorSubClientDxD:769673792] with ID [41] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:52:55] [0000m.33s.620ms] [0] DFAMT: File server access time: 75 us
+[2019.03.25 10:53:15] [0000m.53s.400ms] [1] SC[2019]: UnRegistered sub-client [SystemDesignDll] with ID [10] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:15] [0000m.53s.604ms] [1] SC[2019]: UnRegistered sub-client [DesignSearcher2] with ID [11] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.53s.810ms] [1] SC[2019]: UnRegistered sub-client [GlobalNetAliasUpdater_768028736] with ID [40] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.53s.811ms] [1] SC[2019]: UnRegistered sub-client [BlockCacheDxD:760821152] with ID [39] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.53s.811ms] [1] SC[2019]: UnRegistered sub-client [ObjectHolder_515922976] with ID [38] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.53s.811ms] [1] SC[2019]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:769673792] with ID [41] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.53s.818ms] [1] SC[2019]: UnRegistered sub-client [Navigator] with ID [16] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.53s.818ms] [1] SC[2019]: UnRegistered sub-client [FFSSelListener] with ID [21] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.53s.832ms] [1] SC[2019]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [20] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.53s.964ms] [1] SC[2019]: UnRegistered sub-client [FFSearch_RBHost] with ID [19] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.53s.980ms] [1] SC[2019]: UnRegistered sub-client [MyParts] with ID [25] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.54s.024ms] [1] SC[2019]: UnRegistered sub-client [toolboxes] with ID [27] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.54s.114ms] [1] SC[2019]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.54s.114ms] [1] SC[2019]: UnRegistered sub-client [PartReplaceUtils] with ID [32] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.54s.114ms] [1] SC[2019]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [33] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.54s.115ms] [1] SC[2019]: UnRegistered sub-client [Core::NetFlatData-3830] with ID [14] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.54s.115ms] [1] SC[2019]: UnRegistered sub-client [BlockCacheDxD:517821680] with ID [13] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:16] [0000m.54s.115ms] [1] SC[2019]: UnRegistered sub-client [Core::DesignListener-316] with ID [12] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.128ms] [1] SC[2019]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:518466848] with ID [29] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.128ms] [1] SC[2019]: UnRegistered sub-client [SheetConnectorsCacheDxD:1553532753] with ID [30] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.129ms] [1] SC[2019]: UnRegistered sub-client [NetsNamesCollectorDxD:1553532753] with ID [31] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.156ms] [1] SC[2019]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.157ms] [1] SC[2019]: UnRegistered sub-client [DxD] with ID [1] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.174ms] [1] SC[2019]: UnRegistered sub-client [xprob] with ID [34] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.175ms] [1] SC[2019]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.181ms] [1] SC[2019]: UnRegistered sub-client [OutputWindow] with ID [17] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.188ms] [1] SC[2019]: UnRegistered sub-client [SAE] with ID [22] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.192ms] [1] SC[2019]: UnRegistered sub-client [CCZAddin] with ID [23] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:17] [0000m.55s.194ms] [1] SC[2019]: UnRegistered sub-client [DxThumbnails] with ID [24] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:18] [0000m.56s.053ms] [1] SC[2019]: UnRegistered sub-client [PinsList] with ID [26] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:18] [0000m.56s.128ms] [1] SC[2019]: UnRegistered sub-client [PlaceDevice] with ID [18] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:20] [0000m.58s.085ms] [1] SC[2019]: UnRegistered sub-client [IBDInstanceDialog] with ID [28] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:20] [0000m.58s.096ms] [1] SC[2019]: UnRegistered sub-client [HdlProject] with ID [15] for session ID [2019] host [cob-vkronber-55] user [vkronber] process ID [440]
+[2019.03.25 10:53:20] [0000m.58s.207ms] [1] CMT: Removed client [2019]
+[2019.03.25 10:53:20] [0000m.58s.207ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2019.03.25 10:53:20] [0000m.58s.563ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2019.03.25 10:53:22] [0000m.59s.715ms] [0] CMT: Starting server auto-close
+[2019.03.25 10:53:22] [0000m.59s.795ms] [0] S: Closing server
+[2019.03.25 10:53:22] [0000m.59s.835ms] [0] iCDB Server PI: Closing plugins
+[2019.03.25 10:53:22] [0000m.59s.835ms] [0] iCDB Server PI: Plugins closed
+[2019.03.25 10:53:22] [0000m.59s.835ms] [0] iCDB Server PI: Unloading database
+[2019.03.25 10:53:22] [0000m.59s.835ms] [0] iCDB Server PI: Saving storage
+[2019.03.25 10:53:22] [0000m.59s.835ms] [0] iCDB Server PI: Closing database
+[2019.03.25 10:53:22] [0000m.59s.838ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[0%] data[99%]
+[2019.03.25 10:53:22] [0000m.59s.838ms] [1] iCDB Server PI: Stats: Database file size [1846048 (1.8 MB)]
+[2019.03.25 10:53:22] [0000m.59s.846ms] [0] iCDB Server PI: Database closed
+[2019.03.25 10:53:22] [0000m.59s.846ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [110077] ticks
+[2019.03.25 10:53:22] [0000m.59s.846ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [38815] microseconds
+[2019.03.25 10:53:22] [0000m.59s.846ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [20]
+[2019.03.25 10:53:22] [0000m.59s.846ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [515] commands per second
+[2019.03.25 10:53:22] [0000m.59s.846ms] [1] iCDB Server PI: Stats: Mem[20140032]
+[2019.03.25 10:53:22] [0000m.59s.846ms] [1] iCDB Server PI: Stats: MemPeak[50667520]
+[2019.03.25 10:53:22] [0000m.59s.849ms] [0] Single file [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database\icdb.dat] closed with size [1846048 (1.8 MB)]
+[2019.03.25 10:53:22] [0000m.59s.900ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2019.03.25 10:53:22] [0000m.59s.972ms] [0] MWT: Destroy the shutdown block reason.
+[2019.03.25 10:53:22] [0000m.59s.974ms] [0] MWT: STOP
+[2019.03.25 10:53:22] [0000m.59s.975ms] [0] S: STOP

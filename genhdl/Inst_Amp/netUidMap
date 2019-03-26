@@ -1,0 +1,37 @@
+Inst_Amp/0 $1N439
+Inst_Amp/ad_clk $2N23
+Inst_Amp/ad_cs $2N22
+Inst_Amp/ad_dout $2N24
+Inst_Amp/amp_out $1N519
+Inst_Amp/c1i704 $1I704
+Inst_Amp/c1i726 $1I726
+Inst_Amp/n1n468 $1N468
+Inst_Amp/n1n479 $1N479
+Inst_Amp/n1n481 $1N481
+Inst_Amp/n1n485 $1N485
+Inst_Amp/n1n487 $1N487
+Inst_Amp/n1n514 $1N514
+Inst_Amp/n1n516 $1N516
+Inst_Amp/n1n576 $1N576
+Inst_Amp/n1n599 $1N599
+Inst_Amp/neg_input $1N600
+Inst_Amp/pos_input $1N601
+Inst_Amp/pwr $1N456
+Inst_Amp/r1i150 $1I150
+Inst_Amp/r1i194 $1I194
+Inst_Amp/r1i328 $1I328
+Inst_Amp/r1i350 $1I350
+Inst_Amp/r1i372 $1I372
+Inst_Amp/r1i394 $1I394
+Inst_Amp/r1i416 $1I416
+Inst_Amp/r1i489 $1I489
+Inst_Amp/r1i527 $1I527
+Inst_Amp/r1i549 $1I549
+Inst_Amp/r1i577 $1I577
+Inst_Amp/ref_out $1N470
+Inst_Amp/u101 $2I2
+Inst_Amp/vdd $2N15
+x1i216 
+x1i244 
+x1i272 
+x1i300 

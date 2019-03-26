@@ -1,0 +1,28 @@
+! This is an automatically generated file
+
+! Net Explorer scheme file
+! Created 10/26/12 13:19:20
+!
+
+SELECTED_NETGROUPS 1
+	"CORPORATEPlanning\sGroupsUser\sGroupsMemAddr"
+MARKED_NETGROUPS 1
+	"CORPORATEPlanning\sGroupsUser\sGroupsMemAddr"
+MARKED_NETS 0
+EXPANDED_TREE_ITEMS 4
+	"CORPORATE"
+	"CORPORATEPlanning\sGroups"
+	"CORPORATEPlanning\sGroupsUser\sGroups"
+	"Net\sClass"
+FILTER_STRINGS 7
+	"Net"	"ADDR*"	"ADDR*"
+	"Marked"	""	"++"
+	"Net Class"	""	""
+	"Constraint Class"	""	""
+	"Topology"	""	""
+	"User Group"	""	""
+	"Shielding Rule"	""	""
+PRESSED_TOOLBAR_ICONS 1
+	"Toggle Filter"
+
+! End of scheme

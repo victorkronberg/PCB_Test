@@ -1,0 +1,3 @@
+[2019-03-25 10.52.27] Successfully created [Constraints Definition Upgrade] backup [2019-03-25 10.52.25 - consDefUpgr.zip] requested by [COB-VKRONBER-55:vkronber].
+[2019-03-25 10.52.27] Migrated iCDB content backup file [cdbback\2019-03-25 10.52.23-27432.zip] removed.
+[2019-03-25 10.52.30] Successfully created [AutoSave] backup [2019-03-25 10.52.27 - auto.zip] requested by [COB-VKRONBER-55:vkronber].

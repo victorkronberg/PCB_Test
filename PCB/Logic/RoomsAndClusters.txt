@@ -1,0 +1,97 @@
+
+     Rooms & Clusters:
+RefDsg: 	C1 	Room: 	 	Cluster: 	ANALOG_SW
+RefDsg: 	C2 	Room: 	 	Cluster: 	ANALOG_SW
+RefDsg: 	C3 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port1
+RefDsg: 	C4 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port1
+RefDsg: 	C5 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port2
+RefDsg: 	C6 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port4
+RefDsg: 	C7 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	C8 	Room: 	 	Cluster: 	BUFFERS
+RefDsg: 	C9 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	C10 	Room: 	 	Cluster: 	MEMORY
+RefDsg: 	C11 	Room: 	 	Cluster: 	MEMORY
+RefDsg: 	C12 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	C14 	Room: 	 	Cluster: 	MEMORY
+RefDsg: 	C15 	Room: 	 	Cluster: 	MICROPROC
+RefDsg: 	C20 	Room: 	 	Cluster: 	BUFFERS
+RefDsg: 	C21 	Room: 	 	Cluster: 	DSP
+RefDsg: 	C22 	Room: 	 	Cluster: 	DSP
+RefDsg: 	C24 	Room: 	 	Cluster: 	MICROPROC
+RefDsg: 	C25 	Room: 	 	Cluster: 	DSP
+RefDsg: 	C26 	Room: 	 	Cluster: 	DSP
+RefDsg: 	C27 	Room: 	 	Cluster: 	MEMORY
+RefDsg: 	C28 	Room: 	 	Cluster: 	DSP
+RefDsg: 	C29 	Room: 	 	Cluster: 	DSP
+RefDsg: 	C35 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port1
+RefDsg: 	C36 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port3
+RefDsg: 	C37 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port2
+RefDsg: 	C38 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port2
+RefDsg: 	C39 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port4
+RefDsg: 	C40 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port3
+RefDsg: 	C41 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port3
+RefDsg: 	C42 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port4
+RefDsg: 	C43 	Room: 	 	Cluster: 	BUFFERS
+RefDsg: 	C44 	Room: 	 	Cluster: 	MICROPROC
+RefDsg: 	L1 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	L2 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	L3 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	L4 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	P1 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	P2 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R1 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R2 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R3 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R5 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R6 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R7 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R8 	Room: 	 	Cluster: 	MICROPROC
+RefDsg: 	R9 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R10 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R11 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R12 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R14 	Room: 	 	Cluster: 	MICROPROC
+RefDsg: 	R15 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R16 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R17 	Room: 	 	Cluster: 	ANALOG_SW
+RefDsg: 	R18 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	R19 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R20 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R21 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R22 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R23 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port1
+RefDsg: 	R24 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R25 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R26 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port4
+RefDsg: 	R27 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port3
+RefDsg: 	R28 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port2
+RefDsg: 	R30 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R31 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port1
+RefDsg: 	R32 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port3
+RefDsg: 	R33 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port2
+RefDsg: 	R34 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port4
+RefDsg: 	R35 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	R36 	Room: 	 	Cluster: 	CONNECTORS
+RefDsg: 	U1 	Room: 	 	Cluster: 	BUFFERS
+RefDsg: 	U6 	Room: 	 	Cluster: 	FPGA
+RefDsg: 	U7 	Room: 	 	Cluster: 	BUFFERS
+RefDsg: 	U8 	Room: 	 	Cluster: 	MICROPROC
+RefDsg: 	U10 	Room: 	 	Cluster: 	MEMORY
+RefDsg: 	U11 	Room: 	 	Cluster: 	DSP
+RefDsg: 	U12 	Room: 	 	Cluster: 	FPGA
+RefDsg: 	U13 	Room: 	 	Cluster: 	BUFFERS
+RefDsg: 	U14 	Room: 	 	Cluster: 	MEMORY
+RefDsg: 	U18 	Room: 	 	Cluster: 	MEMORY
+RefDsg: 	U19 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port1
+RefDsg: 	U20 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port3
+RefDsg: 	U21 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port2
+RefDsg: 	U22 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port4
+RefDsg: 	U24 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port1
+RefDsg: 	U25 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port3
+RefDsg: 	U26 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port2
+RefDsg: 	U27 	Room: 	 	Cluster: 	LOGIC_REUSE/IO_Port4
+RefDsg: 	U28 	Room: 	 	Cluster: 	MEMORY
+RefDsg: 	U29 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	U30 	Room: 	ANALOG 	Cluster: 	ANALOG_SW
+RefDsg: 	U101 	Room: 	 	Cluster: 	ANALOG_SW
+RefDsg: 	X1 	Room: 	 	Cluster: 	MICROPROC

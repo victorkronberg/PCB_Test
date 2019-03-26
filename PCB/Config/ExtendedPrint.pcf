@@ -1,0 +1,619 @@
+.FILETYPE ExtendedPrint SetupFile
+.VERSION "VB99.0"
+.CREATOR "Expedition PCB PDF Output"
+.DATE "Monday, February 04, 2013 09:27 AM"
+
+.BaseUnits "1NM"
+
+.FillText No
+.FitDrawing No
+.PDFFileName "C:\\WDIR\\EEVX.2.5\\Xpedition_Tutorial\\Lesson6\\PCB\\Output\\PDF\\CORPORATE"
+
+
+.SheetName "Sheet1"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+   ...LayerName "Fab_TitleBlock1"
+   ...LayerName "Fab_TitleBlock2"
+   ...LayerName "Fab_TitleData2"
+   ...LayerName "Placement_Body_Top"
+   ...LayerName "Fab_Film"
+   ...LayerName "Fab_Notes"
+   ...LayerName "Fab_Dimensions"
+   ...LayerName "Assy_Dimensions"
+   ...LayerName "Assy_Notes"
+   ...LayerName "Assy_TitleBlock1"
+   ...LayerName "Assy_Top"
+   ...LayerName "Assy_Bottom"
+   ...LayerName "Gold_Mask_Top"
+   ...LayerName "Construct"
+   ...LayerName "User Plating Bar Bottom"
+   ...LayerName "User Plating Bar Top"
+   ...LayerName "Design Notes"
+   ...LayerName "Fab_TitleData1"
+   ...LayerName "Gold_Mask_Bottom"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer Yes
+   ...ConductiveItem Bondpads
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+
+.SheetName "Sheet2"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+   ...LayerName "Fab_TitleBlock1"
+   ...LayerName "Fab_TitleBlock2"
+   ...LayerName "Fab_TitleData2"
+   ...LayerName "Placement_Body_Top"
+   ...LayerName "Fab_Film"
+   ...LayerName "Fab_Notes"
+   ...LayerName "Fab_Dimensions"
+   ...LayerName "Assy_Dimensions"
+   ...LayerName "Assy_Notes"
+   ...LayerName "Assy_TitleBlock1"
+   ...LayerName "Assy_Top"
+   ...LayerName "Assy_Bottom"
+   ...LayerName "Gold_Mask_Top"
+   ...LayerName "Construct"
+   ...LayerName "User Plating Bar Bottom"
+   ...LayerName "User Plating Bar Top"
+   ...LayerName "Design Notes"
+   ...LayerName "Fab_TitleData1"
+   ...LayerName "Gold_Mask_Bottom"
+
+ ..ConductiveLayer 2
+   ...ProcessLayer Yes
+   ...ConductiveItem Bondpads
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+
+.SheetName "Sheet3"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+   ...LayerName "Fab_TitleBlock1"
+   ...LayerName "Fab_TitleBlock2"
+   ...LayerName "Fab_TitleData2"
+   ...LayerName "Placement_Body_Top"
+   ...LayerName "Fab_Film"
+   ...LayerName "Fab_Notes"
+   ...LayerName "Fab_Dimensions"
+   ...LayerName "Assy_Dimensions"
+   ...LayerName "Assy_Notes"
+   ...LayerName "Assy_TitleBlock1"
+   ...LayerName "Assy_Top"
+   ...LayerName "Assy_Bottom"
+   ...LayerName "Gold_Mask_Top"
+   ...LayerName "Construct"
+   ...LayerName "User Plating Bar Bottom"
+   ...LayerName "User Plating Bar Top"
+   ...LayerName "Design Notes"
+   ...LayerName "Fab_TitleData1"
+   ...LayerName "Gold_Mask_Bottom"
+
+ ..ConductiveLayer 3
+   ...ProcessLayer Yes
+   ...ConductiveItem Bondpads
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+
+.SheetName "Sheet4"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+   ...LayerName "Fab_TitleBlock1"
+   ...LayerName "Fab_TitleBlock2"
+   ...LayerName "Fab_TitleData2"
+   ...LayerName "Placement_Body_Top"
+   ...LayerName "Fab_Film"
+   ...LayerName "Fab_Notes"
+   ...LayerName "Fab_Dimensions"
+   ...LayerName "Assy_Dimensions"
+   ...LayerName "Assy_Notes"
+   ...LayerName "Assy_TitleBlock1"
+   ...LayerName "Assy_Top"
+   ...LayerName "Assy_Bottom"
+   ...LayerName "Gold_Mask_Top"
+   ...LayerName "Construct"
+   ...LayerName "User Plating Bar Bottom"
+   ...LayerName "User Plating Bar Top"
+   ...LayerName "Design Notes"
+   ...LayerName "Fab_TitleData1"
+   ...LayerName "Gold_Mask_Bottom"
+
+ ..ConductiveLayer 4
+   ...ProcessLayer Yes
+   ...ConductiveItem Bondpads
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+
+.SheetName "Sheet5"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+   ...LayerName "Fab_TitleBlock1"
+   ...LayerName "Fab_TitleBlock2"
+   ...LayerName "Fab_TitleData2"
+   ...LayerName "Placement_Body_Top"
+   ...LayerName "Fab_Film"
+   ...LayerName "Fab_Notes"
+   ...LayerName "Fab_Dimensions"
+   ...LayerName "Assy_Dimensions"
+   ...LayerName "Assy_Notes"
+   ...LayerName "Assy_TitleBlock1"
+   ...LayerName "Assy_Top"
+   ...LayerName "Assy_Bottom"
+   ...LayerName "Gold_Mask_Top"
+   ...LayerName "Construct"
+   ...LayerName "User Plating Bar Bottom"
+   ...LayerName "User Plating Bar Top"
+   ...LayerName "Design Notes"
+   ...LayerName "Fab_TitleData1"
+   ...LayerName "Gold_Mask_Bottom"
+
+ ..ConductiveLayer 5
+   ...ProcessLayer Yes
+   ...ConductiveItem Bondpads
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+
+.SheetName "Sheet6"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+   ...LayerName "Fab_TitleBlock1"
+   ...LayerName "Fab_TitleBlock2"
+   ...LayerName "Fab_TitleData2"
+   ...LayerName "Placement_Body_Top"
+   ...LayerName "Fab_Film"
+   ...LayerName "Fab_Notes"
+   ...LayerName "Fab_Dimensions"
+   ...LayerName "Assy_Dimensions"
+   ...LayerName "Assy_Notes"
+   ...LayerName "Assy_TitleBlock1"
+   ...LayerName "Assy_Top"
+   ...LayerName "Assy_Bottom"
+   ...LayerName "Gold_Mask_Top"
+   ...LayerName "Construct"
+   ...LayerName "User Plating Bar Bottom"
+   ...LayerName "User Plating Bar Top"
+   ...LayerName "Design Notes"
+   ...LayerName "Fab_TitleData1"
+   ...LayerName "Gold_Mask_Bottom"
+
+ ..ConductiveLayer 6
+   ...ProcessLayer Yes
+   ...ConductiveItem Bondpads
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+
+.OutputVariants NO
+.VariantList "Master"
+
+.EzPrintConfigFilePath "C:\\Users\\vwnek\\Application Data\\mgc\\ezprint\\defaultEzPrintConfig.xml"

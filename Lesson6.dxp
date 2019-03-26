@@ -1,0 +1,18 @@
+LIST TESTBENCHES
+ENDLIST
+LIST SPICE LIBRARIES
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\amp\amp.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\auto\auto.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\bjt\bjt.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\diode\diode.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\func\func.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\jfet\jfet.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\macro\macro.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\mag\mag.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\mixsig\mixsig.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\mosfet\mosfet.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\opto\opto.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\pwrsup\pwrsup.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\smps\smps.lib
+C:\mentorgraphics\EEVX.1\SDD_HOME\standard\templates\hyperlynx analog\Central Library\HLASym_CentralLibrary\Models\Spice\uwave\uwave.lib
+ENDLIST

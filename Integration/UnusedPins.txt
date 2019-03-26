@@ -1,0 +1,145 @@
+
+Schematic unused pins from : Packager  1-Sep-2015  12:33
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part 101-RES                          |
+ Part 102-RES                          |
+ Part 107-RES                          |
+ Part 113-RES                          |
+ Part 167-RES                          |
+ Part 168-RES                          |
+ Part 169-RES                          |
+ Part 200_LED_AK                       |
+ Part 201_LED_AK                       |
+ Part 202_LED_AK                       |
+ Part 203_LED_AK                       |
+ Part 301_5PIN-RANG                    |
+ Part 304_120PIN_PCI_50MIL             |
+  P2                                   | (G)  A1
+  P2                                   | (G)  A4
+  P2                                   | (G)  A5
+  P2                                   | (G)  A6
+  P2                                   | (G)  A7
+  P2                                   | (G)  A8
+  P2                                   | (G)  A9
+  P2                                   | (G)  A10
+  P2                                   | (G)  A11
+  P2                                   | (G)  A14
+  P2                                   | (G)  A15
+  P2                                   | (G)  A16
+  P2                                   | (G)  A17
+  P2                                   | (G)  A18
+  P2                                   | (G)  A19
+  P2                                   | (G)  A20
+  P2                                   | (G)  A21
+  P2                                   | (G)  A22
+  P2                                   | (G)  A23
+  P2                                   | (G)  A24
+  P2                                   | (G)  A25
+  P2                                   | (G)  A26
+  P2                                   | (G)  A27
+  P2                                   | (G)  A28
+  P2                                   | (G)  A29
+  P2                                   | (G)  A30
+  P2                                   | (G)  A31
+  P2                                   | (G)  A32
+  P2                                   | (G)  A33
+  P2                                   | (G)  A34
+  P2                                   | (G)  A35
+  P2                                   | (G)  A36
+  P2                                   | (G)  A37
+  P2                                   | (G)  A38
+  P2                                   | (G)  A39
+  P2                                   | (G)  A40
+  P2                                   | (G)  A41
+  P2                                   | (G)  A42
+  P2                                   | (G)  A43
+  P2                                   | (G)  A44
+  P2                                   | (G)  A45
+  P2                                   | (G)  A46
+  P2                                   | (G)  A47
+  P2                                   | (G)  A48
+  P2                                   | (G)  A49
+  P2                                   | (G)  A50
+  P2                                   | (G)  A51
+  P2                                   | (G)  A52
+  P2                                   | (G)  A53
+  P2                                   | (G)  A54
+  P2                                   | (G)  A55
+  P2                                   | (G)  A56
+  P2                                   | (G)  A57
+  P2                                   | (G)  A58
+  P2                                   | (G)  A59
+  P2                                   | (G)  A60
+  P2                                   | (G)  A61
+  P2                                   | (G)  A62
+ Part 400_20MHZ_CRYST                  |
+ Part 402_3R584MHZ_CRYST               |
+ Part 500_5R5V_IC                      |
+  U8                                   | (P)  121 98 87
+ Part 502_5R5V_IC                      |
+  U7                                   | (P)  17
+  U13                                  | (G)  41 40 38 37 8 9 11 12 48
+  U13                                  | (G)  36 35 33 32 13 14 16 17
+                                       |  25
+  U13                                  | (G)  30 29 27 26 19 20 22 23
+                                       |  24
+ Part 504_5R5V_IC                      |
+  U18                                  | (P)  30 1
+  U28                                  | (P)  30 1
+ Part 506_5V_IC                        |
+ Part 507_5V_IC                        |
+ Part 508_3R3V_IC                      |
+  U17                                  | (G)  3 2 5 1 4 6
+ Part 509_3R3V_IC                      |
+  U16                                  | (G)  1 2 3
+  U16                                  | (G)  12 13 11
+ Part 510_5V_IC                        |
+  U19                                  | (P)  10
+  U20                                  | (P)  10
+  U21                                  | (P)  10
+  U22                                  | (P)  10
+ Part 511-5V_IC                        |
+ Part 512-3R3V_BGA                     |
+  U11                                  | (P)  B1 A24 B4 B24 C4 C1 C25
+                                       |  D1 J3 J25 AF6 AE18 AE16 AE14
+                                       |  AD6 J26 J24 D2 C26 C5 C2 B26
+                                       |  B3 A25 AF11 AF9 AE21 AE19 AE17
+                                       |  AD9 W2 V26 T24
+ Part 514-VIRTEX-FPGA                  |
+  U12                                  | (P)  C13 A13 A14 B14 A15 C15
+                                       |  F12 G12 G13 G14 G15 G16 H13
+                                       |  H14 H15 H16 J16 J15 J14 J13
+                                       |  K16 K15 K14 K13 K12 L12 L16
+                                       |  L15 L14 L13 M16 M15 M14 M13
+                                       |  N15 N14 N16 P16 T15 A2 B3 A3
+                                       |  A4 E6 E7 D7 C7 B7 A7 D8 C8 B8
+                                       |  A8 A9 B9 C9 A10 B10 C10 D10
+                                       |  E10 E11 A11 B11 C11 D11 A12
+                                       |  B12 C12 D12 B13
+  U12                                  | (P)  T14 R12 T12 N11 P11 R11
+                                       |  T11 M11 M10 N10 P10 R10 T10 N9
+                                       |  P9 R9 T8 R8 P8 N8 T7 R7 P7 N7
+                                       |  M7 M6 T6 R6 P6 N6 T5 R5 T4 T3
+                                       |  R3 T2 P2 N1 N3 N2 M4 M3 M2 M1
+                                       |  L4 L3 L2 L1 L5 K5 K4 K3 K2 K1
+                                       |  J4 J3 J2 J1 H1 H2 H3 E1 E2 E3
+                                       |  E4 D2 D3 D1 C1
+ Part 515-DIFFDRV                      |
+ Part 516-DIFFRCV                      |
+ Part 517-3R3V_IC                      |
+  U6                                   | (P)  4 5 6 17 13
+ Part 519-AD8639_IC                    |
+ Part 520-LP2985_IC                    |
+ Part 521-5V_IC                        |
+ Part 12303-CAP                        |
+ Part 12321-CAP                        |
+ Part 12325-CAP                        |
+ Part 12333-CAP                        |
+ Part 12335-CAP                        |
+ Part 12337-CAP                        |
+ Part 12342-CAP                        |
+ Part 12344-CAP                        |

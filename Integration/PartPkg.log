@@ -1,0 +1,185 @@
+
+                                    Packager
+                                    --------
+
+                      12:33 PM Tuesday, September 01, 2015
+              Job Name: C:\Xpedition_Evaluation\Lesson6\Lesson6.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: ""C:\MentorGraphics_VX1.2\EEVX.1.2\SDD_HOME\wg\win32\bin\package.exe"  -jC:\Xpedition_Evaluation\Lesson6\Lesson6.prj -nCORPORATE -Refresh -NoFill"
+
+     The Common Database is at "C:\Xpedition_Evaluation\Lesson6\database".
+
+     The Root of this design is "CORPORATE".
+
+     The Front End Snapshot of this design is "DxD".
+
+     The PCB Design Path of this design is at "C:\Xpedition_Evaluation\Lesson6\PCB\CORPORATE.pcb".
+
+     The Central Library is at "C:\Xpedition_Evaluation\Library\Library.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB and to refresh with newer data any duplicates found in the
+      Target PDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Pkg Group"
+       "Connector Mating Part"
+       "Connector Gender"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "ICX_PART_MODEL"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "PKG_TYPE"
+       "Power"
+       "Drawing Project"
+       "Drawing Number Vertical"
+       "Variant Number"
+       "Datasheet"
+       "Variant Description"
+       "Variant Name"
+       "Drawing_PDF_Number"
+       "Voltage"
+       "IBIS"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 40
+          Part Numb: 101-RES -> Vend Part: 101-RES 
+          Part Numb: 102-RES -> Vend Part: 102-RES 
+          Part Numb: 107-RES -> Vend Part: 107-RES 
+          Part Numb: 113-RES -> Vend Part: 113-RES 
+          Part Numb: 167-RES -> Vend Part: 167-RES 
+          Part Numb: 168-RES -> Vend Part: 168-RES 
+          Part Numb: 169-RES -> Vend Part: 169-RES 
+          Part Numb: 200_LED_AK -> Vend Part: 200_LED_AK 
+          Part Numb: 201_LED_AK -> Vend Part: 201_LED_AK 
+          Part Numb: 202_LED_AK -> Vend Part: 202_LED_AK 
+          Part Numb: 203_LED_AK -> Vend Part: 203_LED_AK 
+          Part Numb: 301_5PIN-RANG -> Vend Part: 301_5PIN-RANG 
+          Part Numb: 304_120PIN_PCI_50MIL -> Vend Part: 304_120PIN_PCI_50MIL 
+          Part Numb: 400_20MHZ_CRYST -> Vend Part: 400_20MHZ_CRYST 
+          Part Numb: 402_3R584MHZ_CRYST -> Vend Part: 402_3R584MHZ_CRYST 
+          Part Numb: 500_5R5V_IC -> Vend Part: 500_5R5V_IC 
+          Part Numb: 502_5R5V_IC -> Vend Part: 502_5R5V_IC 
+          Part Numb: 504_5R5V_IC -> Vend Part: 504_5R5V_IC 
+          Part Numb: 506_5V_IC -> Vend Part: 506_5V_IC 
+          Part Numb: 507_5V_IC -> Vend Part: 507_5V_IC 
+          Part Numb: 508_3R3V_IC -> Vend Part: 508_3R3V_IC 
+          Part Numb: 509_3R3V_IC -> Vend Part: 509_3R3V_IC 
+          Part Numb: 510_5V_IC -> Vend Part: 510_5V_IC 
+          Part Numb: 511-5V_IC -> Vend Part: 511-5V_IC 
+          Part Numb: 512-3R3V_BGA -> Vend Part: 512-3R3V_BGA 
+          Part Numb: 514-VIRTEX-FPGA -> Vend Part: 514-VIRTEX-FPGA 
+          Part Numb: 515-DIFFDRV -> Vend Part: 515-DIFFDRV 
+          Part Numb: 516-DIFFRCV -> Vend Part: 516-DIFFRCV 
+          Part Numb: 517-3R3V_IC -> Vend Part: 517-3R3V_IC 
+          Part Numb: 519-AD8639_IC -> Vend Part: 519-AD8639_IC 
+          Part Numb: 520-LP2985_IC -> Vend Part: 520-LP2985_IC 
+          Part Numb: 521-5V_IC -> Vend Part: 521-5V_IC 
+          Part Numb: 12303-CAP -> Vend Part: 12303-CAP 
+          Part Numb: 12321-CAP -> Vend Part: 12321-CAP 
+          Part Numb: 12325-CAP -> Vend Part: 12325-CAP 
+          Part Numb: 12333-CAP -> Vend Part: 12333-CAP 
+          Part Numb: 12335-CAP -> Vend Part: 12335-CAP 
+          Part Numb: 12337-CAP -> Vend Part: 12337-CAP 
+          Part Numb: 12342-CAP -> Vend Part: 12342-CAP 
+          Part Numb: 12344-CAP -> Vend Part: 12344-CAP 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 195 Symbols:
+             195  ********************************************
+             150  **************************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     320 nets were found containing 1160 pins
+     119 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE iCDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

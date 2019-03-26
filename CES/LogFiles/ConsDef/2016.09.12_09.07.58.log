@@ -1,0 +1,49 @@
+Mon Sep 12 09:07:58 2016
+
+Project path: C:\Xpedition_Evaluation\Lesson6\database
+
+Env. WDIR: c:\WDIR\EEVX.2;C:\MentorGraphics\EEVX.2\SDD_HOME\standard;
+WDIRs: 
+	c:\WDIR\EEVX.2
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard
+
+Loaded cns files: 
+	c:\WDIR\EEVX.2\user.cns=ea14-c8cb-b785-4bf8-a4f5-3b7f-4f53-b750-1a44-4f6c-5d9a-7490
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+
+Loaded cns - data stored in database: c:\WDIR\EEVX.2\user.cns=ea14-c8cb-b785-4bf8-a4f5-3b7f-4f53-b750-1a44-4f6c-5d9a-7490;C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+Before global upgrade from version: 7.10.56 to version: 7.10.56
+
+BeforeGlobalUpgrade took 0ms, 0s
+
+Upgrade snapshot DxD
+UpgradeSnapshot took 94ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230389036613634][4971974010091864066][2:36:54_9-20-11][1316486226]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot CORPORATE_layout_temp
+UpgradeSnapshot took 16ms, 0s
+
+Upgrade snapshot CORPORATE
+UpgradeSnapshot took 16ms, 0s
+
+Upgrade snapshot RefSync
+UpgradeSnapshot took 15ms, 0s
+
+Upgrade snapshot CORPORATE_RefSync
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot CORPORATE_LDDTemp
+UpgradeSnapshot took 32ms, 0s
+
+Upgrade snapshot __ise_DxD
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot xIOPT
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+Set database cns file versions: ce_ee.cns=7.10.56;user.cns=ea14-c8cb-b785-4bf8-a4f5-3b7f-4f53-b750-1a44-4f6c-5d9a-7490
+AfterGlobalUpgrade took 0ms, 0s
+

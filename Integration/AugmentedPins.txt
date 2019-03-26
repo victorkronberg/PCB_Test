@@ -1,0 +1,97 @@
+
+------------------------------------------------------------------------
+            Part/Reference             | Pin | Augmented Net Name
+------------------------------------------------------------------------
+ Part 516-DIFFRCV                      |
+       U3                              |    8| VDD
+       U3                              |    5| GND
+       U2                              |    8| VDD
+       U2                              |    5| GND
+ Part 515-DIFFDRV                      |
+       U5                              |    1| VDD
+       U5                              |    4| GND
+       U4                              |    1| VDD
+       U4                              |    4| GND
+ Part 514-VIRTEX-FPGA                  |
+       U12                             |   A1| <unconnected pin>
+       U12                             |   C2| <unconnected pin>
+ Part 509_3R3V_IC                      |
+       U16                             |    7| VDD
+       U16                             |   14| GND
+ Part 508_3R3V_IC                      |
+       U17                             |    7| VDD
+       U17                             |   14| GND
+ Part 504_5R5V_IC                      |
+       U28                             |   32| VDD
+       U28                             |   16| GND
+       U18                             |   32| VDD
+       U18                             |   16| GND
+       U14                             |   32| VDD
+       U14                             |   16| GND
+       U10                             |   32| VDD
+       U10                             |   16| GND
+ Part 502_5R5V_IC                      |
+       U13                             |    7| VDD
+       U13                             |   42| VDD
+       U13                             |   31| VDD
+       U13                             |   18| VDD
+       U13                             |   45| GND
+       U13                             |    4| GND
+       U13                             |   39| GND
+       U13                             |   34| GND
+       U13                             |   28| GND
+       U13                             |   21| GND
+       U13                             |   15| GND
+       U13                             |   10| GND
+       U7                              |    7| VDD
+       U7                              |   42| VDD
+       U7                              |   31| VDD
+       U7                              |   18| VDD
+       U7                              |   45| GND
+       U7                              |    4| GND
+       U7                              |   39| GND
+       U7                              |   34| GND
+       U7                              |   28| GND
+       U7                              |   21| GND
+       U7                              |   15| GND
+       U7                              |   10| GND
+       U1                              |    7| VDD
+       U1                              |   42| VDD
+       U1                              |   31| VDD
+       U1                              |   18| VDD
+       U1                              |   45| GND
+       U1                              |    4| GND
+       U1                              |   39| GND
+       U1                              |   34| GND
+       U1                              |   28| GND
+       U1                              |   21| GND
+       U1                              |   15| GND
+       U1                              |   10| GND
+ Part 500_5R5V_IC                      |
+       U8                              |   99| VDD
+       U8                              |   83| VDD
+       U8                              |   62| VDD
+       U8                              |   39| VDD
+       U8                              |   28| VDD
+       U8                              |   18| VDD
+       U8                              |  131| VDD
+       U8                              |  112| VDD
+       U8                              |   84| GND
+       U8                              |   67| GND
+       U8                              |   57| GND
+       U8                              |   44| GND
+       U8                              |    4| GND
+       U8                              |   34| GND
+       U8                              |   29| GND
+       U8                              |   23| GND
+       U8                              |   13| GND
+       U8                              |  126| GND
+       U8                              |  116| GND
+       U8                              |  107| GND
+       U8                              |  102| GND
+       U8                              |   75| <unconnected pin>
+       U8                              |   89| <unconnected pin>
+       U8                              |  133| <unconnected pin>
+       U8                              |  134| <unconnected pin>
+       U8                              |  135| <unconnected pin>
+       U8                              |  136| <unconnected pin>

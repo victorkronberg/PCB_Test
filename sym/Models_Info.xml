@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Mapping Version="2.2">
+  <PartNumber Name="12344-CAP">
+    <ModificationDate Time="2012-04-02T17:37:59"/>
+    <Symbol Name="Sample:CAPNONPOL.1" ModificationTime="2012-04-02T17:37:59">
+      <Model Name="Capacitor" Type="BuiltIn (SPICE)" Default="0" DefaultLM="0" ModelFile="" CLPath=".\Models\">
+        <Ports PortsNumber="" PinsNumber=""/>
+        <Parameters/>
+      </Model>
+    </Symbol>
+  </PartNumber>
+  <PartNumber Name="169-RES">
+    <ModificationDate Time="2012-04-02T17:38:29"/>
+    <Symbol Name="Sample:resistor.1" ModificationTime="2012-04-02T17:38:29">
+      <Model Name="Resistor" Type="BuiltIn (SPICE)" Default="0" DefaultLM="0" ModelFile="" CLPath=".\Models\">
+        <Ports PortsNumber="" PinsNumber=""/>
+        <Parameters/>
+      </Model>
+    </Symbol>
+  </PartNumber>
+  <PartNumber Name="167-RES">
+    <ModificationDate Time="2012-04-02T17:40:01"/>
+    <Symbol Name="Sample:resistor.1" ModificationTime="2012-04-02T17:40:01">
+      <Model Name="Resistor" Type="BuiltIn (SPICE)" Default="0" DefaultLM="0" ModelFile="" CLPath=".\Models\">
+        <Ports PortsNumber="" PinsNumber=""/>
+        <Parameters/>
+      </Model>
+    </Symbol>
+  </PartNumber>
+  <PartNumber Name="168-RES">
+    <ModificationDate Time="2012-04-02T17:39:42"/>
+    <Symbol Name="Sample:resistor.1" ModificationTime="2012-04-02T17:39:42">
+      <Model Name="Resistor" Type="BuiltIn (SPICE)" Default="0" DefaultLM="0" ModelFile="" CLPath=".\Models\">
+        <Ports PortsNumber="" PinsNumber=""/>
+        <Parameters/>
+      </Model>
+    </Symbol>
+  </PartNumber>
+  <PartNumber Name="519-AD8639_IC">
+    <ModificationDate Time="2013-10-03T15:36:40"/>
+    <Symbol Name="Sample:OPAMP_DUAL.1" ModificationTime="2013-10-03T15:36:40">
+      <Model Name="AD8638" Type="Spice" Default="0" DefaultLM="0" ModelFile=".\sym\AD8638.mod" Library="C:\Xpedition_Evaluation\Lesson6\HLA_AD8638.lib" Partition="" CLPath="">
+        <Ports PortsNumber="5" PinsNumber="5">
+          <Port Name="1" DataType="" Mode="Analog" Assigned="1">
+            <MappedPin>VI+</MappedPin>
+          </Port>
+          <Port Name="2" DataType="" Mode="Analog" Assigned="1">
+            <MappedPin>VI-</MappedPin>
+          </Port>
+          <Port Name="99" DataType="" Mode="Analog" Assigned="1">
+            <MappedPin>VSS</MappedPin>
+          </Port>
+          <Port Name="50" DataType="" Mode="Analog" Assigned="1">
+            <MappedPin>VDD</MappedPin>
+          </Port>
+          <Port Name="45" DataType="" Mode="Analog" Assigned="1">
+            <MappedPin>VO</MappedPin>
+          </Port>
+        </Ports>
+        <Parameters/>
+      </Model>
+    </Symbol>
+  </PartNumber>
+</Mapping>

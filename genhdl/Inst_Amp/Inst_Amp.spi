@@ -1,0 +1,38 @@
+
+* Project Inst_Amp
+* Mentor Graphics Wirelist Created with Version 6.4.002
+* File created Mon Apr 02 10:49:12 2012
+* Inifile   :
+* ConfigFile:  C:\MentorGraphics\7.11.0EPE\SDD_HOME\standard\wspice.cfg
+* Options   :  -__ -.spi -h -$ -kC:\MentorGraphics\7.11.0EPE\SDD_HOME\standard\wspice.cfg inst_amp
+* Levels    :
+*
+R1I150 N1N479 N1N487 68.100000K
+R1I194 N1N481 N1N479 10.000000K
+X1I216 N1N576 N1N479 0 PWR N1N487 AD8638
+X1I244 N1N599 N1N481 0 PWR N1N485 AD8638
+X1I272 Ref_out N1N468 0 PWR Ref_out AD8638
+X1I300 N1N514 N1N516 0 PWR Amp_Out AD8638
+R1I328 N1N481 N1N485 68.100000K
+R1I350 N1N516 Amp_Out 68.100000K
+R1I372 N1N487 N1N514 10.000000K
+R1I394 N1N468 PWR 10.000000K
+R1I416 0 N1N468 10.000000K
+R1I489 N1N485 N1N516 10.000000K
+R1I527 Pos_input N1N576 100.000000
+R1I549 N1N514 Ref_out 68.100000K
+R1I577 Neg_input N1N599 100.000000
+C1I726 N1N487 N1N479 0.22uF
+C1I704 N1N485 N1N481 0.22uF
+U101 Amp_Out Ref_out VDD 0 AD_CS VDD AD_DOUT AD_CLK VOLTAGE
+* Dictionary 1
+* GND=0
+
+*Globals
+.global 0
+.global PWR
+.global VDD
+
+.include "..\..\sym\AD8638.mod"
+
+.include "..\..\genhdl\Inst_Amp\Inst_Amp_sources.spi"

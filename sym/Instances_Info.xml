@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Mapping Version="2.2">
+  <Symbol Name="Sample:CAPNONPOL.1">
+    <Instance Name="$1I726"/>
+    <Instance Name="$1I704"/>
+  </Symbol>
+  <Symbol Name="Sample:resistor.1">
+    <Instance Name="$1I527"/>
+    <Instance Name="$1I577"/>
+    <Instance Name="$1I150"/>
+    <Instance Name="$1I328"/>
+    <Instance Name="$1I194"/>
+    <Instance Name="$1I394"/>
+    <Instance Name="$1I416"/>
+    <Instance Name="$1I372"/>
+    <Instance Name="$1I489"/>
+    <Instance Name="$1I549"/>
+    <Instance Name="$1I350"/>
+  </Symbol>
+  <Symbol Name="Sample:OPAMP_DUAL.1">
+    <Instance Name="$1I272"/>
+    <Instance Name="$1I244"/>
+    <Instance Name="$1I300"/>
+    <Instance Name="$1I216"/>
+    <Instance Name="$1I244"/>
+    <Instance Name="$1I272"/>
+    <Instance Name="$1I300"/>
+  </Symbol>
+</Mapping>

@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\PCB\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\PCB\Layout\MVO_Rules.txt'

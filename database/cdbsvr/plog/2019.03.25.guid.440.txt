@@ -1,0 +1,32 @@
+[2019.03.25 10:52:21] [0000m.53s.425ms] [0] WELCOME
+[2019.03.25 10:52:21] [0000m.53s.427ms] [1] iCDB Database ver.2.205, D1PPEPg28i9edg/tjYlvRQ, build:12449202 created 2018-12-06 13:26:39, sources stamp:D1PPEPg28i9edg/tjYlvRQ
+[2019.03.25 10:52:21] [0000m.53s.427ms] [1] Copyright 2019 Mentor Graphics Corporation.  All Rights Reserved.
+[2019.03.25 10:52:21] [0000m.53s.427ms] [1] Base flow version [VX.2.5]
+[2019.03.25 10:52:21] [0000m.53s.427ms] [1] Install Id [1935766], Flow Id [X-ENTP VX.2.5], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.5], Exact Access Date [2019/02/01]
+[2019.03.25 10:52:21] [0000m.53s.427ms] [1] Install Id [1935760], Flow Id [X-ICP VX.2.5], Full Flow Name [Xpedition IC Packaging VX.2.5], Exact Access Date [2019/02/01]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [1] Machine [COB-VKRONBER-55]  IP [127.0.0.1,134.86.113.116]  User [vkronber]  PID [440]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [1] Operating system [Microsoft Windows 8 Enterprise Edition, 64-bit (build 9200)]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [1] Current working dir [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [1] PATH [C:\MentorGraphics\EEVX.2.5\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.5\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.5\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.5\MGC_HOME.ixw\lib;C:\ActiveTcl\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\Python27;C:\Program Files\Git\cmd;C:\Users\vkronber\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.5\SDD_HOME] on file system [NTFS]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [1] SDD_PLATFORM [win64]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [1] WDIR [C:\WDIR\EEVX.2.5;C:\AATK;C:\XPITK\wdir;C:\MentorGraphics\EEVX.2.5\SDD_HOME\standard;]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.5\iCDB] on file system [NTFS]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [1] Corporate iCDB working dir [C:\XPITK\wdir\iCDB] on file system [NTFS]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [1] Corporate iCDB working dir [C:\AATK\iCDB] on file system [NTFS]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [3] WARNING: Database [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database\icdb.dat] was manually copied
+[2019.03.25 10:52:21] [0000m.53s.428ms] [3] File change time:        [2019-03-21 12.54.25]
+[2019.03.25 10:52:21] [0000m.53s.428ms] [3] File modification time:  [2019-03-17 01.01.15]
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] Last change time:        [2018-08-31 22.40.00]
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] Last database open information:
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] Time:             [2018-08-31 22.39.11]
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] Location:         [C:\WDIR\EEVX.2.5\Xpedition_Tutorial\Lesson6\database\icdb.dat]
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] Machine:          [AJXENT1022]
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] User:             [root]
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] PID:              [113492]
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] Application:      [iCDB Server]
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] Operating system: [Microsoft Windows 10 Enterprise Edition, 64-bit (build 10586)]
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] WARNING: Regenerating database GUID
+[2019.03.25 10:52:21] [0000m.53s.429ms] [3] Previous database GUID [038f-cd70-ad11-5575-b041-a8b0-141a-8b50-71dc-817f-60bd-29c8]
+[2019.03.25 10:52:21] [0000m.53s.430ms] [3] Current database GUID  [7d14-c88c-92cf-3b9c-5470-99ca-4709-9c50-546d-16d2-d3b3-60fc]
+[2019.03.25 10:52:21] [0000m.53s.430ms] [0] .

@@ -1,0 +1,236 @@
+Version: 7
+
+FPT: 200_LED_AK 
+FPH: Optoelectronics\LEDs
+XDP: L503GD-H401 L503 T F F
+XDP1: Optoelectronics\LEDs\LEDs.edp
+XDP2: AOPLI\CBI_LED\Single_Level_CBI_LED_Lamp\L503\L503.edp
+
+FPT: 201_LED_AK 
+FPH: Optoelectronics\LEDs
+XDP: L503BD-H401 L503 T F F
+XDP1: Optoelectronics\LEDs\LEDs.edp
+XDP2: AOPLI\CBI_LED\Single_Level_CBI_LED_Lamp\L503\L503.edp
+
+FPT: 202_LED_AK 
+FPH: Optoelectronics\LEDs
+XDP: L503HD-H401 L503 T F F
+XDP1: Optoelectronics\LEDs\LEDs.edp
+XDP2: AOPLI\CBI_LED\Single_Level_CBI_LED_Lamp\L503\L503.edp
+
+FPT: 203_LED_AK 
+FPH: Optoelectronics\LEDs
+XDP: L503YD-H401 L503 T F F
+XDP1: Optoelectronics\LEDs\LEDs.edp
+XDP2: AOPLI\CBI_LED\Single_Level_CBI_LED_Lamp\L503\L503.edp
+
+FPT: 301_5PIN-RANG 
+FPH: Connectors\Sockets\Strips
+XDP: SSW-105-01-F-S-RA_R SSW-TH-S-RA T F F
+XDP1: Connectors\Sockets\Strips\Strips.edp
+XDP2: Samtec\Standard_Board_to_Board\100_inch_pitch_square_post_systems\SSW-TH\SSW-TH.edp
+
+FPT: 400_20MHZ_CRYST 
+FPH: Frequency_Control\Crystals
+XDP: ECS-270-20-5PXDU-TR CSM-7X-DU T F F
+XDP1: Frequency_Control\Crystals\Crystals.edp
+XDP2: ECS\Crystals\Surface_Mount\CSM-7X-DU\CSM-7X-DU.edp
+
+FPT: 500_5R5V_IC 
+FPH: Embedded_Solutions\Processors
+XDP: MC68302 MC68302 T F F
+XDP1: Embedded_Solutions\Processors\Processors.edp
+XDP2: XD\MC68302\MC68302.edp
+
+FPT: 502_5R5V_IC 
+FPH: Buffers
+XDP: CY74FCT16244CTPVC CY74FCT162 T F F
+XDP1: Buffers\Buffers.edp
+XDP2: TI\Logic\Buffer_Driver_Transceiver\Non-Inverting_Buffer_Driver\CY74FCT162\CY74FCT162.edp
+
+FPT: 507_5V_IC 
+FPH: Logic\Latches
+XDP: SN74HC174D SN74HC174D T F F
+XDP1: Logic\Latches\Latches.edp
+XDP2: TI\Logic\Flip-Flop_Latch_Register\D-Type_Flip-Flop\SN54HC174_SN74HC174\SN54HC174_SN74HC174.edp
+
+FPT: 508_3R3V_IC 
+FPH: Logic\Gates
+XDP: 74AC32SC 74AC32SC_74ACT32SC T F F
+XDP1: Logic\Gates\Gates.edp
+XDP2: Fairchild\Logic\Gates\OR_Gates\74AC32_74ACT32\74AC32_74ACT32.edp
+
+FPT: 509_3R3V_IC 
+FPH: Logic\Gates
+XDP: 74AC32SC 74AC32SC_74ACT32SC T F F
+XDP1: Logic\Gates\Gates.edp
+XDP2: Fairchild\Logic\Gates\OR_Gates\74AC32_74ACT32\74AC32_74ACT32.edp
+
+FPT: 512-3R3V_BGA 
+FPH: Embedded_Solutions\Digital_Signal_Processors-DSP
+XDP: DSP-BGA264 DSP T F F
+XDP1: Embedded_Solutions\Digital_Signal_Processors-DSP\Digital_Signal_Processors-DSP.edp
+XDP2: XD\DSP\DSP.edp
+
+FPT: 514-VIRTEX-FPGA 
+FPH: FPGAs
+XDP: XC2V1000-5FG256C VIRTEX-II T F F
+XDP1: FPGAs\FPGAs.edp
+XDP2: Xilinx\FPGA\VIRTEX-II\VIRTEX-II.edp
+
+FPT: 515-DIFFDRV 
+FPH: Interface\LVDS
+XDP: FIN1027M FIN1027 T F F
+XDP1: Interface\LVDS\LVDS.edp
+XDP2: Fairchild\Logic\Buffers_Drivers_Transceivers\Differential_Driver\FIN1027\FIN1027.edp
+
+FPT: 516-DIFFRCV 
+FPH: Interface\LVDS
+XDP: FIN1027M FIN1027 T F F
+XDP1: Interface\LVDS\LVDS.edp
+XDP2: Fairchild\Logic\Buffers_Drivers_Transceivers\Differential_Driver\FIN1027\FIN1027.edp
+
+FPT: 519-AD8639_IC 
+FPH: Amplifiers\Operational
+XDP: AD8639ARZ AD8638_AD8639_WARZ T F F
+XDP1: Amplifiers\Operational\Operational.edp
+XDP2: Analog_Devices\Amplifiers_Linear\Operational_Amplifiers\AD8638_AD8639\AD8638_AD8639.edp
+
+FPT: 521-5V_IC 
+FPH: Data_Conversion\Analog_To_Digital-ADC
+XDP: MAX1242ACSA MAX1242_MAX1243_SA T F F
+XDP1: Data_Conversion\Analog_To_Digital-ADC\Analog_To_Digital-ADC.edp
+XDP2: Maxim\Analog_to_Digital_Converters\MAX1242_MAX1243\MAX1242_MAX1243.edp
+
+FPT: 101-RES 
+FPH: Resistors\Film
+XDP: MCR18ERTF10K0 MCR T F F
+XDP1: Resistors\Film\Film.edp
+XDP2: ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.edp
+
+FPT: 12333-CAP 
+FPH: Capacitors\Tantalum
+XDP: TCFGA1C106M8R TCFG T F F
+XDP1: Capacitors\Tantalum\Tantalum.edp
+XDP2: ROHM\Passive_Components\Tantalum_Capacitors\TC\TC.edp
+
+FPT: 12303-CAP 
+FPH: Capacitors\Tantalum
+XDP: TCFGD1C107MCR TCFG T F F
+XDP1: Capacitors\Tantalum\Tantalum.edp
+XDP2: ROHM\Passive_Components\Tantalum_Capacitors\TC\TC.edp
+
+FPT: 102-RES 
+FPH: Resistors\Film
+XDP: MCR18ERTF10K0 MCR T F F
+XDP1: Resistors\Film\Film.edp
+XDP2: ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.edp
+
+FPT: 113-RES 
+FPH: Resistors\Film
+XDP: MCR10ERTF698K MCR T F F
+XDP1: Resistors\Film\Film.edp
+XDP2: ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.edp
+
+FPT: 12325-CAP 
+FPH: Capacitors\Tantalum
+XDP: TCFGA1C335M8R TCFG T F F
+XDP1: Capacitors\Tantalum\Tantalum.edp
+XDP2: ROHM\Passive_Components\Tantalum_Capacitors\TC\TC.edp
+
+FPT: 12335-CAP 
+FPH: Capacitors\Tantalum
+XDP: TCFGA1C106M8R TCFG T F F
+XDP1: Capacitors\Tantalum\Tantalum.edp
+XDP2: ROHM\Passive_Components\Tantalum_Capacitors\TC\TC.edp
+
+FPT: 12344-CAP 
+FPH: Capacitors\Tantalum
+XDP: TCFGA1C225M8R TCFG T F F
+XDP1: Capacitors\Tantalum\Tantalum.edp
+XDP2: ROHM\Passive_Components\Tantalum_Capacitors\TC\TC.edp
+
+FPT: 12337-CAP 
+FPH: Capacitors\Tantalum
+XDP: TCFGA1C105M8R TCFG T F F
+XDP1: Capacitors\Tantalum\Tantalum.edp
+XDP2: ROHM\Passive_Components\Tantalum_Capacitors\TC\TC.edp
+
+FPT: 107-RES 
+FPH: Resistors\Film
+XDP: MCR18ERTF5K10 MCR T F F
+XDP1: Resistors\Film\Film.edp
+XDP2: ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.edp
+
+FPT: 167-RES 
+FPH: Resistors\Film
+XDP: MCR10ERTF68K1 MCR T F F
+XDP1: Resistors\Film\Film.edp
+XDP2: ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.edp
+
+FPT: 168-RES 
+FPH: Resistors\Film
+XDP: MCR10ERTF10K0 MCR T F F
+XDP1: Resistors\Film\Film.edp
+XDP2: ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.edp
+
+FPT: 169-RES 
+FPH: Resistors\Film
+XDP: MCR10ERTF100R MCR T F F
+XDP1: Resistors\Film\Film.edp
+XDP2: ROHM\Passive_Components\Resistors\Thick_Film_Chip_Resistors\MCR\MCR.edp
+
+FPT: 506_5V_IC 
+FPH: Logic\Flip-Flops
+XDP: 74HC174 74HC174_74HCT174 T F F
+XDP1: Logic\Flip-Flops\Flip-Flops.edp
+XDP2: NXP\Logic\Flip_Flops\74HC174_74HCT174\74HC174_74HCT174.edp
+
+FPT: 517-3R3V_IC 
+FPH: Memories\ROMs
+XDP: XC18V01SO20C XC18V00-SO20 T F F
+XDP1: Memories\ROMs\ROMs.edp
+XDP2: Xilinx\PROMs\In-System-Programmable\XC18V00\XC18V00.edp
+
+FPT: 12321-CAP 
+FPH: Capacitors\Tantalum
+XDP: TCFGA1C105M8R TCFG T F F
+XDP1: Capacitors\Tantalum\Tantalum.edp
+XDP2: ROHM\Passive_Components\Tantalum_Capacitors\TC\TC.edp
+
+FPT: 510_5V_IC 
+FPH: Counters
+XDP: 74HC00_DIP 74HC00 T F F
+XDP1: Counters\Counters.edp
+XDP2: NXP\Logic\Counters\74HC192\74HC192.edp
+
+FPT: 511-5V_IC 
+FPH: Counters
+XDP: 74HC192 74HC192 T F F
+XDP1: Counters\Counters.edp
+XDP2: NXP\Logic\Counters\74HC192\74HC192.edp
+
+FPT: 504_5R5V_IC 
+FPH: Buffers
+XDP: MC74LCX125 MC74LCX125 T F F
+XDP1: Buffers\Buffers.edp
+XDP2: On_Semiconductor\Standard_Logic\Buffers\MC74LCX125\MC74LCX125.edp
+
+FPT: 520-LP2985_IC 
+FPH: Regulators\Low_Dropout-LDO
+XDP: LP2985IM5X-6.1 LP2985_IM T F F
+XDP1: Regulators\Low_Dropout-LDO\Low_Dropout-LDO.edp
+XDP2: TI\Power_Management\Linear_Regulators\Single_Channel_LDO\LP2985\LP2985.edp
+
+FPT: 12342-CAP 
+FPH: Capacitors\Ceramic
+XDP: SR215E104MARTR1 SR_LK T F F
+XDP1: Capacitors\Ceramic\Ceramic.edp
+XDP2: AVX\Capacitors\Ceramic\Leaded\SR\SR.edp
+
+FPT: 402_3R584MHZ_CRYST 
+FPH: Frequency_Control\Oscillators
+XDP: VF540BH-2-3.584MHZ VF540 T F F
+XDP1: Frequency_Control\Oscillators\Oscillators.edp
+XDP2: Valpey_Fisher\Commercial_Oscillators\XO\VF540\VF540.edp
+
